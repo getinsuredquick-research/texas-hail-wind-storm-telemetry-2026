@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+title: "Texas 10-Year Hail & Wind Storm Telemetry (2026)"
+message: "If you use this Texas insurance open-data benchmark in research, journalism, or modeling, please cite it as below."
+type: dataset
+authors:
+  - name: "Get Insured Quick — Texas Insurance Open Research Desk"
+    website: "https://getinsuredquick.com/texas/risk-data"
+repository-code: "https://github.com/getinsuredquick-research/texas-hail-wind-storm-telemetry-2026"
+url: "https://getinsuredquick.com/datasets/texas-hail-wind-storm-telemetry-2026/"
+license: CC-BY-4.0
+version: "1.0.0"
+date-released: "2026-11-20"
+doi: "10.5281/zenodo.24391170"

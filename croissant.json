@@ -1,0 +1,742 @@
+{
+  "@context": {
+    "@language": "en",
+    "@vocab": "https://schema.org/",
+    "citeAs": "cr:citeAs",
+    "column": "cr:column",
+    "conformsTo": "dct:conformsTo",
+    "cr": "http://mlcommons.org/croissant/",
+    "data": {
+      "@id": "cr:data",
+      "@type": "@json"
+    },
+    "dataType": {
+      "@id": "cr:dataType",
+      "@type": "@vocab"
+    },
+    "dct": "http://purl.org/dc/terms/",
+    "extract": "cr:extract",
+    "field": "cr:field",
+    "fileObject": "cr:fileObject",
+    "format": "cr:format",
+    "recordSet": "cr:recordSet",
+    "sc": "https://schema.org/",
+    "source": "cr:source"
+  },
+  "@type": "sc:Dataset",
+  "conformsTo": "http://mlcommons.org/croissant/1.0",
+  "name": "Texas 10-Year Hail & Wind Storm Telemetry (2026)",
+  "alternateName": "texas-hail-wind-storm-telemetry-2026",
+  "description": "10-year Texas severe convective storm and federal disaster underwriting telemetry compiled from NOAA NCEI Storm Events (calendar years 2016-2025) and OpenFEMA Disaster Declarations (2016-2026). Includes individual geolocated Texas hail events with stone diameter (inches), county-level 10-year hail/wind/tornado summaries across all 254 counties, 10-mile city storm counts for 549 cities, and federal disaster declaration timelines.",
+  "url": "https://getinsuredquick.com/datasets/texas-hail-wind-storm-telemetry-2026/",
+  "sameAs": [
+    "https://doi.org/10.5281/zenodo.24391170",
+    "https://huggingface.co/datasets/getinsuredquick/texas-hail-wind-storm-telemetry-2026",
+    "https://github.com/getinsuredquick-research/texas-hail-wind-storm-telemetry-2026",
+    "https://www.kaggle.com/datasets/getinsuredquick/texas-hail-wind-storm-telemetry-2026"
+  ],
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "version": "1.0.0",
+  "datePublished": "2026-11-20",
+  "dateModified": "2026-11-20",
+  "creator": {
+    "@type": "Organization",
+    "name": "Get Insured Quick \u2014 Texas Insurance Open Research Desk",
+    "url": "https://getinsuredquick.com/texas/risk-data"
+  },
+  "about": [
+    {
+      "@id": "https://www.wikidata.org/wiki/Q37602"
+    },
+    {
+      "@id": "https://www.wikidata.org/wiki/Q1439"
+    },
+    {
+      "@id": "https://www.wikidata.org/wiki/Q8092"
+    }
+  ],
+  "keywords": [
+    "texas",
+    "hail",
+    "noaa",
+    "fema",
+    "catastrophe-modeling",
+    "property-insurance"
+  ],
+  "distribution": [
+    {
+      "@type": "cr:FileObject",
+      "@id": "file-default",
+      "name": "county_hail_severity.csv",
+      "contentUrl": "https://huggingface.co/datasets/getinsuredquick/texas-hail-wind-storm-telemetry-2026/resolve/main/county_hail_severity.csv",
+      "encodingFormat": "text/csv",
+      "sha256": "c5654a20ddd5418a1442c7ee633a418a660e3829a332b481827fedc462773b4c",
+      "contentSize": "17761 B"
+    },
+    {
+      "@type": "cr:FileObject",
+      "@id": "file-noaa_tx_hail_events_2016_2025",
+      "name": "noaa_tx_hail_events_2016_2025.csv",
+      "contentUrl": "https://huggingface.co/datasets/getinsuredquick/texas-hail-wind-storm-telemetry-2026/resolve/main/subsets/noaa_tx_hail_events_2016_2025.csv",
+      "encodingFormat": "text/csv",
+      "sha256": "5665e523c02c900b088415177b444150fc40ac8343c6a08df1e65b9394aec31b",
+      "contentSize": "911512 B"
+    },
+    {
+      "@type": "cr:FileObject",
+      "@id": "file-city_10mi_hail_exposure",
+      "name": "city_10mi_hail_exposure.csv",
+      "contentUrl": "https://huggingface.co/datasets/getinsuredquick/texas-hail-wind-storm-telemetry-2026/resolve/main/subsets/city_10mi_hail_exposure.csv",
+      "encodingFormat": "text/csv",
+      "sha256": "cfe61d85652ed664b25836977f1ffbd78b01c6040928f414b3852f0ade2efdfb",
+      "contentSize": "35963 B"
+    },
+    {
+      "@type": "cr:FileObject",
+      "@id": "file-fema_tx_disasters_2016_2026",
+      "name": "fema_tx_disasters_2016_2026.csv",
+      "contentUrl": "https://huggingface.co/datasets/getinsuredquick/texas-hail-wind-storm-telemetry-2026/resolve/main/subsets/fema_tx_disasters_2016_2026.csv",
+      "encodingFormat": "text/csv",
+      "sha256": "94db217ee2e9ff06bc36f5c275c594fe86b8f38901af7cd62ccaf8e9e4faf1fc",
+      "contentSize": "145970 B"
+    }
+  ],
+  "recordSet": [
+    {
+      "@type": "cr:RecordSet",
+      "@id": "default",
+      "name": "default",
+      "description": "254 Texas counties \u2014 10-yr hail, severe wind, tornado, flood events, max hail inches & NOAA damage",
+      "field": [
+        {
+          "@type": "cr:Field",
+          "@id": "default/county_fips",
+          "name": "county_fips",
+          "dataType": "sc:Text",
+          "source": {
+            "fileObject": {
+              "@id": "file-default"
+            },
+            "extract": {
+              "column": "county_fips"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "default/county_name",
+          "name": "county_name",
+          "dataType": "sc:Text",
+          "source": {
+            "fileObject": {
+              "@id": "file-default"
+            },
+            "extract": {
+              "column": "county_name"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "default/comptroller_region",
+          "name": "comptroller_region",
+          "dataType": "sc:Text",
+          "source": {
+            "fileObject": {
+              "@id": "file-default"
+            },
+            "extract": {
+              "column": "comptroller_region"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "default/hail_events_10yr",
+          "name": "hail_events_10yr",
+          "dataType": "sc:Integer",
+          "source": {
+            "fileObject": {
+              "@id": "file-default"
+            },
+            "extract": {
+              "column": "hail_events_10yr"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "default/max_hail_inches",
+          "name": "max_hail_inches",
+          "dataType": "sc:Float",
+          "source": {
+            "fileObject": {
+              "@id": "file-default"
+            },
+            "extract": {
+              "column": "max_hail_inches"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "default/peak_hail_year",
+          "name": "peak_hail_year",
+          "dataType": "sc:Integer",
+          "source": {
+            "fileObject": {
+              "@id": "file-default"
+            },
+            "extract": {
+              "column": "peak_hail_year"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "default/severe_wind_events_10yr",
+          "name": "severe_wind_events_10yr",
+          "dataType": "sc:Integer",
+          "source": {
+            "fileObject": {
+              "@id": "file-default"
+            },
+            "extract": {
+              "column": "severe_wind_events_10yr"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "default/tornado_events_10yr",
+          "name": "tornado_events_10yr",
+          "dataType": "sc:Integer",
+          "source": {
+            "fileObject": {
+              "@id": "file-default"
+            },
+            "extract": {
+              "column": "tornado_events_10yr"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "default/flood_storm_events_10yr",
+          "name": "flood_storm_events_10yr",
+          "dataType": "sc:Integer",
+          "source": {
+            "fileObject": {
+              "@id": "file-default"
+            },
+            "extract": {
+              "column": "flood_storm_events_10yr"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "default/noaa_property_damage_10yr_usd",
+          "name": "noaa_property_damage_10yr_usd",
+          "dataType": "sc:Integer",
+          "source": {
+            "fileObject": {
+              "@id": "file-default"
+            },
+            "extract": {
+              "column": "noaa_property_damage_10yr_usd"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "default/fema_disasters_20yr",
+          "name": "fema_disasters_20yr",
+          "dataType": "sc:Integer",
+          "source": {
+            "fileObject": {
+              "@id": "file-default"
+            },
+            "extract": {
+              "column": "fema_disasters_20yr"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "default/population",
+          "name": "population",
+          "dataType": "sc:Integer",
+          "source": {
+            "fileObject": {
+              "@id": "file-default"
+            },
+            "extract": {
+              "column": "population"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "@type": "cr:RecordSet",
+      "@id": "noaa_tx_hail_events_2016_2025",
+      "name": "noaa_tx_hail_events_2016_2025",
+      "description": "Geolocated NOAA NCEI Texas hail events (2016-2025) with magnitude in inches, county, lat/lon & damage",
+      "field": [
+        {
+          "@type": "cr:Field",
+          "@id": "noaa_tx_hail_events_2016_2025/event_id",
+          "name": "event_id",
+          "dataType": "sc:Text",
+          "source": {
+            "fileObject": {
+              "@id": "file-noaa_tx_hail_events_2016_2025"
+            },
+            "extract": {
+              "column": "event_id"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "noaa_tx_hail_events_2016_2025/year",
+          "name": "year",
+          "dataType": "sc:Integer",
+          "source": {
+            "fileObject": {
+              "@id": "file-noaa_tx_hail_events_2016_2025"
+            },
+            "extract": {
+              "column": "year"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "noaa_tx_hail_events_2016_2025/begin_date_iso",
+          "name": "begin_date_iso",
+          "dataType": "sc:Text",
+          "source": {
+            "fileObject": {
+              "@id": "file-noaa_tx_hail_events_2016_2025"
+            },
+            "extract": {
+              "column": "begin_date_iso"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "noaa_tx_hail_events_2016_2025/county_fips",
+          "name": "county_fips",
+          "dataType": "sc:Text",
+          "source": {
+            "fileObject": {
+              "@id": "file-noaa_tx_hail_events_2016_2025"
+            },
+            "extract": {
+              "column": "county_fips"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "noaa_tx_hail_events_2016_2025/cz_name",
+          "name": "cz_name",
+          "dataType": "sc:Text",
+          "source": {
+            "fileObject": {
+              "@id": "file-noaa_tx_hail_events_2016_2025"
+            },
+            "extract": {
+              "column": "cz_name"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "noaa_tx_hail_events_2016_2025/hail_inches",
+          "name": "hail_inches",
+          "dataType": "sc:Float",
+          "source": {
+            "fileObject": {
+              "@id": "file-noaa_tx_hail_events_2016_2025"
+            },
+            "extract": {
+              "column": "hail_inches"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "noaa_tx_hail_events_2016_2025/damage_property_usd",
+          "name": "damage_property_usd",
+          "dataType": "sc:Float",
+          "source": {
+            "fileObject": {
+              "@id": "file-noaa_tx_hail_events_2016_2025"
+            },
+            "extract": {
+              "column": "damage_property_usd"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "noaa_tx_hail_events_2016_2025/begin_lat",
+          "name": "begin_lat",
+          "dataType": "sc:Float",
+          "source": {
+            "fileObject": {
+              "@id": "file-noaa_tx_hail_events_2016_2025"
+            },
+            "extract": {
+              "column": "begin_lat"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "noaa_tx_hail_events_2016_2025/begin_lon",
+          "name": "begin_lon",
+          "dataType": "sc:Float",
+          "source": {
+            "fileObject": {
+              "@id": "file-noaa_tx_hail_events_2016_2025"
+            },
+            "extract": {
+              "column": "begin_lon"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "noaa_tx_hail_events_2016_2025/location_note",
+          "name": "location_note",
+          "dataType": "sc:Text",
+          "source": {
+            "fileObject": {
+              "@id": "file-noaa_tx_hail_events_2016_2025"
+            },
+            "extract": {
+              "column": "location_note"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "@type": "cr:RecordSet",
+      "@id": "city_10mi_hail_exposure",
+      "name": "city_10mi_hail_exposure",
+      "description": "549 Texas cities \u2014 10-mile radius hail & severe wind event counts and max hail stone size",
+      "field": [
+        {
+          "@type": "cr:Field",
+          "@id": "city_10mi_hail_exposure/city_rank",
+          "name": "city_rank",
+          "dataType": "sc:Integer",
+          "source": {
+            "fileObject": {
+              "@id": "file-city_10mi_hail_exposure"
+            },
+            "extract": {
+              "column": "city_rank"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "city_10mi_hail_exposure/city_name",
+          "name": "city_name",
+          "dataType": "sc:Text",
+          "source": {
+            "fileObject": {
+              "@id": "file-city_10mi_hail_exposure"
+            },
+            "extract": {
+              "column": "city_name"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "city_10mi_hail_exposure/county_name",
+          "name": "county_name",
+          "dataType": "sc:Text",
+          "source": {
+            "fileObject": {
+              "@id": "file-city_10mi_hail_exposure"
+            },
+            "extract": {
+              "column": "county_name"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "city_10mi_hail_exposure/primary_zip",
+          "name": "primary_zip",
+          "dataType": "sc:Text",
+          "source": {
+            "fileObject": {
+              "@id": "file-city_10mi_hail_exposure"
+            },
+            "extract": {
+              "column": "primary_zip"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "city_10mi_hail_exposure/local_storm_radius_mi",
+          "name": "local_storm_radius_mi",
+          "dataType": "sc:Integer",
+          "source": {
+            "fileObject": {
+              "@id": "file-city_10mi_hail_exposure"
+            },
+            "extract": {
+              "column": "local_storm_radius_mi"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "city_10mi_hail_exposure/local_hail_10yr",
+          "name": "local_hail_10yr",
+          "dataType": "sc:Integer",
+          "source": {
+            "fileObject": {
+              "@id": "file-city_10mi_hail_exposure"
+            },
+            "extract": {
+              "column": "local_hail_10yr"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "city_10mi_hail_exposure/local_max_hail_inches",
+          "name": "local_max_hail_inches",
+          "dataType": "sc:Float",
+          "source": {
+            "fileObject": {
+              "@id": "file-city_10mi_hail_exposure"
+            },
+            "extract": {
+              "column": "local_max_hail_inches"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "city_10mi_hail_exposure/local_wind_10yr",
+          "name": "local_wind_10yr",
+          "dataType": "sc:Integer",
+          "source": {
+            "fileObject": {
+              "@id": "file-city_10mi_hail_exposure"
+            },
+            "extract": {
+              "column": "local_wind_10yr"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "city_10mi_hail_exposure/median_home_value_usd",
+          "name": "median_home_value_usd",
+          "dataType": "sc:Integer",
+          "source": {
+            "fileObject": {
+              "@id": "file-city_10mi_hail_exposure"
+            },
+            "extract": {
+              "column": "median_home_value_usd"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "city_10mi_hail_exposure/lat",
+          "name": "lat",
+          "dataType": "sc:Float",
+          "source": {
+            "fileObject": {
+              "@id": "file-city_10mi_hail_exposure"
+            },
+            "extract": {
+              "column": "lat"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "city_10mi_hail_exposure/lng",
+          "name": "lng",
+          "dataType": "sc:Float",
+          "source": {
+            "fileObject": {
+              "@id": "file-city_10mi_hail_exposure"
+            },
+            "extract": {
+              "column": "lng"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "@type": "cr:RecordSet",
+      "@id": "fema_tx_disasters_2016_2026",
+      "name": "fema_tx_disasters_2016_2026",
+      "description": "OpenFEMA Texas federal disaster declarations (2016-2026) by county, incident type & declaration date",
+      "field": [
+        {
+          "@type": "cr:Field",
+          "@id": "fema_tx_disasters_2016_2026/disaster_number",
+          "name": "disaster_number",
+          "dataType": "sc:Integer",
+          "source": {
+            "fileObject": {
+              "@id": "file-fema_tx_disasters_2016_2026"
+            },
+            "extract": {
+              "column": "disaster_number"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "fema_tx_disasters_2016_2026/declaration_date_iso",
+          "name": "declaration_date_iso",
+          "dataType": "sc:Text",
+          "source": {
+            "fileObject": {
+              "@id": "file-fema_tx_disasters_2016_2026"
+            },
+            "extract": {
+              "column": "declaration_date_iso"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "fema_tx_disasters_2016_2026/fy_declared",
+          "name": "fy_declared",
+          "dataType": "sc:Integer",
+          "source": {
+            "fileObject": {
+              "@id": "file-fema_tx_disasters_2016_2026"
+            },
+            "extract": {
+              "column": "fy_declared"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "fema_tx_disasters_2016_2026/county_fips",
+          "name": "county_fips",
+          "dataType": "sc:Text",
+          "source": {
+            "fileObject": {
+              "@id": "file-fema_tx_disasters_2016_2026"
+            },
+            "extract": {
+              "column": "county_fips"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "fema_tx_disasters_2016_2026/designated_area",
+          "name": "designated_area",
+          "dataType": "sc:Text",
+          "source": {
+            "fileObject": {
+              "@id": "file-fema_tx_disasters_2016_2026"
+            },
+            "extract": {
+              "column": "designated_area"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "fema_tx_disasters_2016_2026/incident_type",
+          "name": "incident_type",
+          "dataType": "sc:Text",
+          "source": {
+            "fileObject": {
+              "@id": "file-fema_tx_disasters_2016_2026"
+            },
+            "extract": {
+              "column": "incident_type"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "fema_tx_disasters_2016_2026/declaration_title",
+          "name": "declaration_title",
+          "dataType": "sc:Text",
+          "source": {
+            "fileObject": {
+              "@id": "file-fema_tx_disasters_2016_2026"
+            },
+            "extract": {
+              "column": "declaration_title"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "fema_tx_disasters_2016_2026/ia_program_declared",
+          "name": "ia_program_declared",
+          "dataType": "sc:Integer",
+          "source": {
+            "fileObject": {
+              "@id": "file-fema_tx_disasters_2016_2026"
+            },
+            "extract": {
+              "column": "ia_program_declared"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "fema_tx_disasters_2016_2026/pa_program_declared",
+          "name": "pa_program_declared",
+          "dataType": "sc:Integer",
+          "source": {
+            "fileObject": {
+              "@id": "file-fema_tx_disasters_2016_2026"
+            },
+            "extract": {
+              "column": "pa_program_declared"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "fema_tx_disasters_2016_2026/hm_program_declared",
+          "name": "hm_program_declared",
+          "dataType": "sc:Integer",
+          "source": {
+            "fileObject": {
+              "@id": "file-fema_tx_disasters_2016_2026"
+            },
+            "extract": {
+              "column": "hm_program_declared"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "identifier": "10.5281/zenodo.24391170",
+  "citeAs": "Get Insured Quick \u2014 Texas Insurance Open Research Desk (2026). Texas 10-Year Hail & Wind Storm Telemetry (2026). Zenodo. https://doi.org/10.5281/zenodo.24391170"
+}

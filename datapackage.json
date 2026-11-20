@@ -1,0 +1,257 @@
+{
+  "profile": "tabular-data-package",
+  "name": "texas-hail-wind-storm-telemetry-2026",
+  "title": "Texas 10-Year Hail & Wind Storm Telemetry (2026)",
+  "description": "10-year Texas severe convective storm and federal disaster underwriting telemetry compiled from NOAA NCEI Storm Events (calendar years 2016-2025) and OpenFEMA Disaster Declarations (2016-2026). Includes individual geolocated Texas hail events with stone diameter (inches), county-level 10-year hail/wind/tornado summaries across all 254 counties, 10-mile city storm counts for 549 cities, and federal disaster declaration timelines.",
+  "version": "1.0.0",
+  "homepage": "https://getinsuredquick.com/datasets/texas-hail-wind-storm-telemetry-2026/",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0",
+      "title": "Creative Commons Attribution 4.0 International",
+      "path": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  ],
+  "contributors": [
+    {
+      "title": "Get Insured Quick \u2014 Texas Insurance Open Research Desk",
+      "role": "author",
+      "path": "https://getinsuredquick.com/texas/risk-data"
+    }
+  ],
+  "resources": [
+    {
+      "profile": "tabular-data-resource",
+      "name": "default",
+      "path": "county_hail_severity.csv",
+      "description": "254 Texas counties \u2014 10-yr hail, severe wind, tornado, flood events, max hail inches & NOAA damage",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "bytes": 17761,
+      "hash": "sha256:c5654a20ddd5418a1442c7ee633a418a660e3829a332b481827fedc462773b4c",
+      "schema": {
+        "fields": [
+          {
+            "name": "county_fips",
+            "type": "string"
+          },
+          {
+            "name": "county_name",
+            "type": "string"
+          },
+          {
+            "name": "comptroller_region",
+            "type": "string"
+          },
+          {
+            "name": "hail_events_10yr",
+            "type": "integer"
+          },
+          {
+            "name": "max_hail_inches",
+            "type": "number"
+          },
+          {
+            "name": "peak_hail_year",
+            "type": "integer"
+          },
+          {
+            "name": "severe_wind_events_10yr",
+            "type": "integer"
+          },
+          {
+            "name": "tornado_events_10yr",
+            "type": "integer"
+          },
+          {
+            "name": "flood_storm_events_10yr",
+            "type": "integer"
+          },
+          {
+            "name": "noaa_property_damage_10yr_usd",
+            "type": "integer"
+          },
+          {
+            "name": "fema_disasters_20yr",
+            "type": "integer"
+          },
+          {
+            "name": "population",
+            "type": "integer"
+          }
+        ]
+      }
+    },
+    {
+      "profile": "tabular-data-resource",
+      "name": "noaa_tx_hail_events_2016_2025",
+      "path": "subsets/noaa_tx_hail_events_2016_2025.csv",
+      "description": "Geolocated NOAA NCEI Texas hail events (2016-2025) with magnitude in inches, county, lat/lon & damage",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "bytes": 911512,
+      "hash": "sha256:5665e523c02c900b088415177b444150fc40ac8343c6a08df1e65b9394aec31b",
+      "schema": {
+        "fields": [
+          {
+            "name": "event_id",
+            "type": "string"
+          },
+          {
+            "name": "year",
+            "type": "integer"
+          },
+          {
+            "name": "begin_date_iso",
+            "type": "string"
+          },
+          {
+            "name": "county_fips",
+            "type": "string"
+          },
+          {
+            "name": "cz_name",
+            "type": "string"
+          },
+          {
+            "name": "hail_inches",
+            "type": "number"
+          },
+          {
+            "name": "damage_property_usd",
+            "type": "number"
+          },
+          {
+            "name": "begin_lat",
+            "type": "number"
+          },
+          {
+            "name": "begin_lon",
+            "type": "number"
+          },
+          {
+            "name": "location_note",
+            "type": "string"
+          }
+        ]
+      }
+    },
+    {
+      "profile": "tabular-data-resource",
+      "name": "city_10mi_hail_exposure",
+      "path": "subsets/city_10mi_hail_exposure.csv",
+      "description": "549 Texas cities \u2014 10-mile radius hail & severe wind event counts and max hail stone size",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "bytes": 35963,
+      "hash": "sha256:cfe61d85652ed664b25836977f1ffbd78b01c6040928f414b3852f0ade2efdfb",
+      "schema": {
+        "fields": [
+          {
+            "name": "city_rank",
+            "type": "integer"
+          },
+          {
+            "name": "city_name",
+            "type": "string"
+          },
+          {
+            "name": "county_name",
+            "type": "string"
+          },
+          {
+            "name": "primary_zip",
+            "type": "string"
+          },
+          {
+            "name": "local_storm_radius_mi",
+            "type": "integer"
+          },
+          {
+            "name": "local_hail_10yr",
+            "type": "integer"
+          },
+          {
+            "name": "local_max_hail_inches",
+            "type": "number"
+          },
+          {
+            "name": "local_wind_10yr",
+            "type": "integer"
+          },
+          {
+            "name": "median_home_value_usd",
+            "type": "integer"
+          },
+          {
+            "name": "lat",
+            "type": "number"
+          },
+          {
+            "name": "lng",
+            "type": "number"
+          }
+        ]
+      }
+    },
+    {
+      "profile": "tabular-data-resource",
+      "name": "fema_tx_disasters_2016_2026",
+      "path": "subsets/fema_tx_disasters_2016_2026.csv",
+      "description": "OpenFEMA Texas federal disaster declarations (2016-2026) by county, incident type & declaration date",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "bytes": 145970,
+      "hash": "sha256:94db217ee2e9ff06bc36f5c275c594fe86b8f38901af7cd62ccaf8e9e4faf1fc",
+      "schema": {
+        "fields": [
+          {
+            "name": "disaster_number",
+            "type": "integer"
+          },
+          {
+            "name": "declaration_date_iso",
+            "type": "string"
+          },
+          {
+            "name": "fy_declared",
+            "type": "integer"
+          },
+          {
+            "name": "county_fips",
+            "type": "string"
+          },
+          {
+            "name": "designated_area",
+            "type": "string"
+          },
+          {
+            "name": "incident_type",
+            "type": "string"
+          },
+          {
+            "name": "declaration_title",
+            "type": "string"
+          },
+          {
+            "name": "ia_program_declared",
+            "type": "integer"
+          },
+          {
+            "name": "pa_program_declared",
+            "type": "integer"
+          },
+          {
+            "name": "hm_program_declared",
+            "type": "integer"
+          }
+        ]
+      }
+    }
+  ],
+  "id": "https://doi.org/10.5281/zenodo.24391170"
+}

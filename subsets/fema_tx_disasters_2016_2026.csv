@@ -1,0 +1,1689 @@
+disaster_number,declaration_date_iso,fy_declared,county_fips,designated_area,incident_type,declaration_title,ia_program_declared,pa_program_declared,hm_program_declared
+5677,2026-09-15,2026,48035,Bosque (County),Fire,Hydra Fire,0,1,0
+4935,2026-09-01,2026,48463,Uvalde (County),Flood,"Severe Storms, Straight-Line Winds, Tornadoes, And Flooding",0,1,0
+4935,2026-09-01,2026,48163,Frio (County),Flood,"Severe Storms, Straight-Line Winds, Tornadoes, And Flooding",0,1,0
+4935,2026-09-01,2026,48325,Medina (County),Flood,"Severe Storms, Straight-Line Winds, Tornadoes, And Flooding",0,0,0
+4935,2026-09-01,2026,48413,Schleicher (County),Flood,"Severe Storms, Straight-Line Winds, Tornadoes, And Flooding",0,1,0
+4935,2026-09-01,2026,48029,Bexar (County),Flood,"Severe Storms, Straight-Line Winds, Tornadoes, And Flooding",0,0,0
+4935,2026-09-01,2026,48091,Comal (County),Flood,"Severe Storms, Straight-Line Winds, Tornadoes, And Flooding",0,0,0
+4935,2026-09-01,2026,48185,Grimes (County),Flood,"Severe Storms, Straight-Line Winds, Tornadoes, And Flooding",0,1,0
+4935,2026-09-01,2026,48127,Dimmit (County),Flood,"Severe Storms, Straight-Line Winds, Tornadoes, And Flooding",0,1,0
+4935,2026-09-01,2026,48137,Edwards (County),Flood,"Severe Storms, Straight-Line Winds, Tornadoes, And Flooding",0,1,0
+4935,2026-09-01,2026,48327,Menard (County),Flood,"Severe Storms, Straight-Line Winds, Tornadoes, And Flooding",0,1,0
+4935,2026-09-01,2026,48465,Val Verde (County),Flood,"Severe Storms, Straight-Line Winds, Tornadoes, And Flooding",0,1,0
+4935,2026-09-01,2026,48297,Live Oak (County),Flood,"Severe Storms, Straight-Line Winds, Tornadoes, And Flooding",0,1,0
+4935,2026-09-01,2026,48171,Gillespie (County),Flood,"Severe Storms, Straight-Line Winds, Tornadoes, And Flooding",0,1,0
+4935,2026-09-01,2026,48271,Kinney (County),Flood,"Severe Storms, Straight-Line Winds, Tornadoes, And Flooding",0,1,0
+4935,2026-09-01,2026,48105,Crockett (County),Flood,"Severe Storms, Straight-Line Winds, Tornadoes, And Flooding",0,1,0
+4935,2026-09-01,2026,48385,Real (County),Flood,"Severe Storms, Straight-Line Winds, Tornadoes, And Flooding",0,1,0
+4935,2026-09-01,2026,48283,La Salle (County),Flood,"Severe Storms, Straight-Line Winds, Tornadoes, And Flooding",0,1,0
+4935,2026-09-01,2026,48507,Zavala (County),Flood,"Severe Storms, Straight-Line Winds, Tornadoes, And Flooding",0,1,0
+4935,2026-09-01,2026,48435,Sutton (County),Flood,"Severe Storms, Straight-Line Winds, Tornadoes, And Flooding",0,1,0
+4935,2026-09-01,2026,48259,Kendall (County),Flood,"Severe Storms, Straight-Line Winds, Tornadoes, And Flooding",0,1,0
+4935,2026-09-01,2026,48319,Mason (County),Flood,"Severe Storms, Straight-Line Winds, Tornadoes, And Flooding",0,1,0
+4935,2026-09-01,2026,48323,Maverick (County),Flood,"Severe Storms, Straight-Line Winds, Tornadoes, And Flooding",0,1,0
+4935,2026-09-01,2026,48019,Bandera (County),Flood,"Severe Storms, Straight-Line Winds, Tornadoes, And Flooding",0,1,0
+4935,2026-09-01,2026,48311,McMullen (County),Flood,"Severe Storms, Straight-Line Winds, Tornadoes, And Flooding",0,1,0
+4935,2026-09-01,2026,48267,Kimble (County),Flood,"Severe Storms, Straight-Line Winds, Tornadoes, And Flooding",0,1,0
+4935,2026-09-01,2026,48265,Kerr (County),Flood,"Severe Storms, Straight-Line Winds, Tornadoes, And Flooding",0,1,0
+5675,2026-08-25,2026,48237,Jack (County),Fire,Ross Fire,0,1,0
+5675,2026-08-25,2026,48363,Palo Pinto (County),Fire,Ross Fire,0,1,0
+3649,2026-07-18,2026,48323,Maverick (County),Flood,Flooding,0,1,0
+3649,2026-07-18,2026,48131,Duval (County),Flood,Flooding,0,1,0
+3649,2026-07-18,2026,48297,Live Oak (County),Flood,Flooding,0,1,0
+3649,2026-07-18,2026,48137,Edwards (County),Flood,Flooding,0,1,0
+3649,2026-07-18,2026,48435,Sutton (County),Flood,Flooding,0,1,0
+3649,2026-07-18,2026,48031,Blanco (County),Flood,Flooding,0,1,0
+3649,2026-07-18,2026,48479,Webb (County),Flood,Flooding,0,1,0
+3649,2026-07-18,2026,48463,Uvalde (County),Flood,Flooding,0,1,0
+3649,2026-07-18,2026,48493,Wilson (County),Flood,Flooding,0,1,0
+3649,2026-07-18,2026,48413,Schleicher (County),Flood,Flooding,0,1,0
+3649,2026-07-18,2026,48271,Kinney (County),Flood,Flooding,0,1,0
+3649,2026-07-18,2026,48319,Mason (County),Flood,Flooding,0,1,0
+3649,2026-07-18,2026,48029,Bexar (County),Flood,Flooding,0,1,0
+3649,2026-07-18,2026,48507,Zavala (County),Flood,Flooding,0,1,0
+3649,2026-07-18,2026,48267,Kimble (County),Flood,Flooding,0,1,0
+3649,2026-07-18,2026,48019,Bandera (County),Flood,Flooding,0,1,0
+3649,2026-07-18,2026,48325,Medina (County),Flood,Flooding,0,1,0
+3649,2026-07-18,2026,48043,Brewster (County),Flood,Flooding,0,1,0
+3649,2026-07-18,2026,48259,Kendall (County),Flood,Flooding,0,1,0
+3649,2026-07-18,2026,48465,Val Verde (County),Flood,Flooding,0,1,0
+3649,2026-07-18,2026,48385,Real (County),Flood,Flooding,0,1,0
+3649,2026-07-18,2026,48091,Comal (County),Flood,Flooding,0,1,0
+3649,2026-07-18,2026,48283,La Salle (County),Flood,Flooding,0,1,0
+3649,2026-07-18,2026,48013,Atascosa (County),Flood,Flooding,0,1,0
+3649,2026-07-18,2026,48127,Dimmit (County),Flood,Flooding,0,1,0
+3649,2026-07-18,2026,48249,Jim Wells (County),Flood,Flooding,0,1,0
+3649,2026-07-18,2026,48327,Menard (County),Flood,Flooding,0,1,0
+3649,2026-07-18,2026,48105,Crockett (County),Flood,Flooding,0,1,0
+3649,2026-07-18,2026,48163,Frio (County),Flood,Flooding,0,1,0
+3649,2026-07-18,2026,48265,Kerr (County),Flood,Flooding,0,1,0
+3649,2026-07-18,2026,48443,Terrell (County),Flood,Flooding,0,1,0
+3649,2026-07-18,2026,48171,Gillespie (County),Flood,Flooding,0,1,0
+3649,2026-07-18,2026,48371,Pecos (County),Flood,Flooding,0,1,0
+5634,2026-05-18,2026,48375,Potter (County),Fire,Stinky Fire,0,1,0
+5633,2026-05-14,2026,48381,Randall (County),Fire,Hunggate Fire,0,1,0
+5625,2026-03-15,2026,48129,Donley (County),Fire,Corner Pocket Fire,0,1,0
+5619,2026-02-18,2026,48129,Donley (County),Fire,8 Ball Fire,0,1,0
+5619,2026-02-18,2026,48011,Armstrong (County),Fire,8 Ball Fire,0,1,0
+4879,2025-07-06,2025,48281,Lampasas (County),Flood,"Severe Storms, Straight-Line Winds, And Flooding",0,1,0
+4879,2025-07-06,2025,48451,Tom Green (County),Flood,"Severe Storms, Straight-Line Winds, And Flooding",0,1,0
+4879,2025-07-06,2025,48095,Concho (County),Flood,"Severe Storms, Straight-Line Winds, And Flooding",0,1,0
+4879,2025-07-06,2025,48267,Kimble (County),Flood,"Severe Storms, Straight-Line Winds, And Flooding",0,1,0
+4879,2025-07-06,2025,48491,Williamson (County),Flood,"Severe Storms, Straight-Line Winds, And Flooding",0,1,0
+4879,2025-07-06,2025,48319,Mason (County),Flood,"Severe Storms, Straight-Line Winds, And Flooding",0,1,0
+4879,2025-07-06,2025,48081,Coke (County),Flood,"Severe Storms, Straight-Line Winds, And Flooding",0,1,0
+4879,2025-07-06,2025,48259,Kendall (County),Flood,"Severe Storms, Straight-Line Winds, And Flooding",0,1,0
+4879,2025-07-06,2025,48389,Reeves (County),Flood,"Severe Storms, Straight-Line Winds, And Flooding",0,1,0
+4879,2025-07-06,2025,48385,Real (County),Flood,"Severe Storms, Straight-Line Winds, And Flooding",0,1,0
+4879,2025-07-06,2025,48411,San Saba (County),Flood,"Severe Storms, Straight-Line Winds, And Flooding",0,1,0
+4879,2025-07-06,2025,48193,Hamilton (County),Flood,"Severe Storms, Straight-Line Winds, And Flooding",0,1,0
+4879,2025-07-06,2025,48299,Llano (County),Flood,"Severe Storms, Straight-Line Winds, And Flooding",0,1,0
+4879,2025-07-06,2025,48053,Burnet (County),Flood,"Severe Storms, Straight-Line Winds, And Flooding",0,1,0
+4879,2025-07-06,2025,48413,Schleicher (County),Flood,"Severe Storms, Straight-Line Winds, And Flooding",0,1,0
+4879,2025-07-06,2025,48137,Edwards (County),Flood,"Severe Storms, Straight-Line Winds, And Flooding",0,1,0
+4879,2025-07-06,2025,48435,Sutton (County),Flood,"Severe Storms, Straight-Line Winds, And Flooding",0,1,0
+4879,2025-07-06,2025,48453,Travis (County),Flood,"Severe Storms, Straight-Line Winds, And Flooding",0,1,0
+4879,2025-07-06,2025,48463,Uvalde (County),Flood,"Severe Storms, Straight-Line Winds, And Flooding",0,1,0
+4879,2025-07-06,2025,48265,Kerr (County),Flood,"Severe Storms, Straight-Line Winds, And Flooding",0,1,0
+4879,2025-07-06,2025,48327,Menard (County),Flood,"Severe Storms, Straight-Line Winds, And Flooding",0,1,0
+4879,2025-07-06,2025,48187,Guadalupe (County),Flood,"Severe Storms, Straight-Line Winds, And Flooding",0,0,0
+4879,2025-07-06,2025,48307,McCulloch (County),Flood,"Severe Storms, Straight-Line Winds, And Flooding",0,1,0
+4871,2025-05-21,2025,48427,Starr (County),Flood,Severe Storms And Flooding,0,0,0
+4871,2025-05-21,2025,48489,Willacy (County),Flood,Severe Storms And Flooding,0,0,0
+4871,2025-05-21,2025,48061,Cameron (County),Flood,Severe Storms And Flooding,0,0,0
+4871,2025-05-21,2025,48215,Hidalgo (County),Flood,Severe Storms And Flooding,0,0,0
+5573,2025-03-20,2025,48339,Montgomery (County),Fire,Pauline Road Fire,0,1,1
+5573,2025-03-20,2025,48407,San Jacinto (County),Fire,Pauline Road Fire,0,1,1
+5571,2025-03-18,2025,48233,Hutchinson (County),Fire,Double S Fire,0,1,1
+5570,2025-03-15,2025,48171,Gillespie (County),Fire,Crabapple Fire,0,1,1
+5555,2025-03-14,2025,48179,Gray (County),Fire,Rest Area Fire,0,1,1
+5555,2025-03-14,2025,48129,Donley (County),Fire,Rest Area Fire,0,1,1
+5553,2025-03-05,2025,48029,Bexar (County),Fire,Duke Fire,0,1,1
+5553,2025-03-05,2025,48013,Atascosa (County),Fire,Duke Fire,0,1,1
+5552,2025-03-04,2025,48409,San Patricio (County),Fire,Welder Fire,0,1,1
+4798,2024-07-09,2024,48481,Wharton (County),Hurricane,Hurricane Beryl,0,1,1
+4798,2024-07-09,2024,48157,Fort Bend (County),Hurricane,Hurricane Beryl,0,1,1
+4798,2024-07-09,2024,48373,Polk (County),Hurricane,Hurricane Beryl,0,1,1
+4798,2024-07-09,2024,48071,Chambers (County),Hurricane,Hurricane Beryl,0,1,1
+4798,2024-07-09,2024,48365,Panola (County),Hurricane,Hurricane Beryl,0,1,1
+4798,2024-07-09,2024,48285,Lavaca (County),Hurricane,Hurricane Beryl,0,1,1
+4798,2024-07-09,2024,48409,San Patricio (County),Hurricane,Hurricane Beryl,0,1,1
+4798,2024-07-09,2024,48061,Cameron (County),Hurricane,Hurricane Beryl,0,1,1
+4798,2024-07-09,2024,48355,Nueces (County),Hurricane,Hurricane Beryl,0,1,1
+4798,2024-07-09,2024,48471,Walker (County),Hurricane,Hurricane Beryl,0,1,1
+4798,2024-07-09,2024,48351,Newton (County),Hurricane,Hurricane Beryl,0,1,1
+4798,2024-07-09,2024,48395,Robertson (County),Hurricane,Hurricane Beryl,0,1,1
+4798,2024-07-09,2024,48405,San Augustine (County),Hurricane,Hurricane Beryl,0,1,1
+4798,2024-07-09,2024,48005,Angelina (County),Hurricane,Hurricane Beryl,0,1,1
+4798,2024-07-09,2024,48199,Hardin (County),Hurricane,Hurricane Beryl,0,1,1
+4798,2024-07-09,2024,48489,Willacy (County),Hurricane,Hurricane Beryl,0,1,1
+4798,2024-07-09,2024,48167,Galveston (County),Hurricane,Hurricane Beryl,0,1,1
+4798,2024-07-09,2024,48361,Orange (County),Hurricane,Hurricane Beryl,0,1,1
+4798,2024-07-09,2024,48149,Fayette (County),Hurricane,Hurricane Beryl,0,1,1
+4798,2024-07-09,2024,48063,Camp (County),Hurricane,Hurricane Beryl,0,1,1
+4798,2024-07-09,2024,48245,Jefferson (County),Hurricane,Hurricane Beryl,0,1,1
+4798,2024-07-09,2024,48241,Jasper (County),Hurricane,Hurricane Beryl,0,1,1
+4798,2024-07-09,2024,48239,Jackson (County),Hurricane,Hurricane Beryl,0,1,1
+4798,2024-07-09,2024,48469,Victoria (County),Hurricane,Hurricane Beryl,0,1,1
+4798,2024-07-09,2024,48089,Colorado (County),Hurricane,Hurricane Beryl,0,1,1
+4798,2024-07-09,2024,48057,Calhoun (County),Hurricane,Hurricane Beryl,0,1,1
+4798,2024-07-09,2024,48007,Aransas (County),Hurricane,Hurricane Beryl,0,1,1
+4798,2024-07-09,2024,48015,Austin (County),Hurricane,Hurricane Beryl,0,1,1
+4798,2024-07-09,2024,48039,Brazoria (County),Hurricane,Hurricane Beryl,0,1,1
+4798,2024-07-09,2024,48287,Lee (County),Hurricane,Hurricane Beryl,0,1,1
+4798,2024-07-09,2024,48479,Webb (County),Hurricane,Hurricane Beryl,0,1,1
+4798,2024-07-09,2024,48161,Freestone (County),Hurricane,Hurricane Beryl,0,1,1
+4798,2024-07-09,2024,48407,San Jacinto (County),Hurricane,Hurricane Beryl,0,1,1
+4798,2024-07-09,2024,48273,Kleberg (County),Hurricane,Hurricane Beryl,0,1,1
+4798,2024-07-09,2024,48291,Liberty (County),Hurricane,Hurricane Beryl,0,1,1
+4798,2024-07-09,2024,48067,Cass (County),Hurricane,Hurricane Beryl,0,1,1
+4798,2024-07-09,2024,48037,Bowie (County),Hurricane,Hurricane Beryl,0,1,1
+4798,2024-07-09,2024,48473,Waller (County),Hurricane,Hurricane Beryl,0,1,1
+4798,2024-07-09,2024,48051,Burleson (County),Hurricane,Hurricane Beryl,0,1,1
+4798,2024-07-09,2024,48175,Goliad (County),Hurricane,Hurricane Beryl,0,1,1
+4798,2024-07-09,2024,48123,DeWitt (County),Hurricane,Hurricane Beryl,0,1,1
+4798,2024-07-09,2024,48347,Nacogdoches (County),Hurricane,Hurricane Beryl,0,1,1
+4798,2024-07-09,2024,48459,Upshur (County),Hurricane,Hurricane Beryl,0,1,1
+4798,2024-07-09,2024,48339,Montgomery (County),Hurricane,Hurricane Beryl,0,1,1
+4798,2024-07-09,2024,48261,Kenedy (County),Hurricane,Hurricane Beryl,0,1,1
+4798,2024-07-09,2024,48419,Shelby (County),Hurricane,Hurricane Beryl,0,1,1
+4798,2024-07-09,2024,48343,Morris (County),Hurricane,Hurricane Beryl,0,1,1
+4798,2024-07-09,2024,48321,Matagorda (County),Hurricane,Hurricane Beryl,0,1,1
+4798,2024-07-09,2024,48331,Milam (County),Hurricane,Hurricane Beryl,0,1,1
+4798,2024-07-09,2024,48203,Harrison (County),Hurricane,Hurricane Beryl,0,1,1
+4798,2024-07-09,2024,48001,Anderson (County),Hurricane,Hurricane Beryl,0,1,1
+4798,2024-07-09,2024,48289,Leon (County),Hurricane,Hurricane Beryl,0,1,1
+4798,2024-07-09,2024,48457,Tyler (County),Hurricane,Hurricane Beryl,0,1,1
+4798,2024-07-09,2024,48073,Cherokee (County),Hurricane,Hurricane Beryl,0,1,1
+4798,2024-07-09,2024,48391,Refugio (County),Hurricane,Hurricane Beryl,0,1,1
+4798,2024-07-09,2024,48477,Washington (County),Hurricane,Hurricane Beryl,0,1,1
+4798,2024-07-09,2024,48313,Madison (County),Hurricane,Hurricane Beryl,0,1,1
+4798,2024-07-09,2024,48183,Gregg (County),Hurricane,Hurricane Beryl,0,1,1
+4798,2024-07-09,2024,48401,Rusk (County),Hurricane,Hurricane Beryl,0,1,1
+4798,2024-07-09,2024,48225,Houston (County),Hurricane,Hurricane Beryl,0,1,1
+4798,2024-07-09,2024,48041,Brazos (County),Hurricane,Hurricane Beryl,0,1,1
+4798,2024-07-09,2024,48201,Harris (County),Hurricane,Hurricane Beryl,0,1,1
+4798,2024-07-09,2024,48185,Grimes (County),Hurricane,Hurricane Beryl,0,1,1
+4798,2024-07-09,2024,48315,Marion (County),Hurricane,Hurricane Beryl,0,1,1
+4798,2024-07-09,2024,48403,Sabine (County),Hurricane,Hurricane Beryl,0,1,1
+4798,2024-07-09,2024,48455,Trinity (County),Hurricane,Hurricane Beryl,0,1,1
+4798,2024-07-09,2024,48215,Hidalgo (County),Hurricane,Hurricane Beryl,0,1,1
+4781,2024-05-17,2024,48431,Sterling (County),Flood,"Severe Storms, Straight-Line Winds, Tornadoes, And Flooding",0,1,1
+4781,2024-05-17,2024,48287,Lee (County),Flood,"Severe Storms, Straight-Line Winds, Tornadoes, And Flooding",0,1,1
+4781,2024-05-17,2024,48331,Milam (County),Flood,"Severe Storms, Straight-Line Winds, Tornadoes, And Flooding",0,1,1
+4781,2024-05-17,2024,48443,Terrell (County),Flood,"Severe Storms, Straight-Line Winds, Tornadoes, And Flooding",0,1,1
+4781,2024-05-17,2024,48057,Calhoun (County),Flood,"Severe Storms, Straight-Line Winds, Tornadoes, And Flooding",0,1,1
+4781,2024-05-17,2024,48395,Robertson (County),Flood,"Severe Storms, Straight-Line Winds, Tornadoes, And Flooding",0,1,1
+4781,2024-05-17,2024,48365,Panola (County),Flood,"Severe Storms, Straight-Line Winds, Tornadoes, And Flooding",0,1,1
+4781,2024-05-17,2024,48217,Hill (County),Flood,"Severe Storms, Straight-Line Winds, Tornadoes, And Flooding",0,1,1
+4781,2024-05-17,2024,48407,San Jacinto (County),Flood,"Severe Storms, Straight-Line Winds, Tornadoes, And Flooding",0,1,1
+4781,2024-05-17,2024,48193,Hamilton (County),Flood,"Severe Storms, Straight-Line Winds, Tornadoes, And Flooding",0,1,1
+4781,2024-05-17,2024,48219,Hockley (County),Flood,"Severe Storms, Straight-Line Winds, Tornadoes, And Flooding",0,1,1
+4781,2024-05-17,2024,48349,Navarro (County),Flood,"Severe Storms, Straight-Line Winds, Tornadoes, And Flooding",0,1,1
+4781,2024-05-17,2024,48351,Newton (County),Flood,"Severe Storms, Straight-Line Winds, Tornadoes, And Flooding",0,1,1
+4781,2024-05-17,2024,48419,Shelby (County),Flood,"Severe Storms, Straight-Line Winds, Tornadoes, And Flooding",0,1,1
+4781,2024-05-17,2024,48213,Henderson (County),Flood,"Severe Storms, Straight-Line Winds, Tornadoes, And Flooding",0,1,1
+4781,2024-05-17,2024,48289,Leon (County),Flood,"Severe Storms, Straight-Line Winds, Tornadoes, And Flooding",0,1,1
+4781,2024-05-17,2024,48401,Rusk (County),Flood,"Severe Storms, Straight-Line Winds, Tornadoes, And Flooding",0,1,1
+4781,2024-05-17,2024,48055,Caldwell (County),Flood,"Severe Storms, Straight-Line Winds, Tornadoes, And Flooding",0,1,1
+4781,2024-05-17,2024,48225,Houston (County),Flood,"Severe Storms, Straight-Line Winds, Tornadoes, And Flooding",0,1,1
+4781,2024-05-17,2024,48147,Fannin (County),Flood,"Severe Storms, Straight-Line Winds, Tornadoes, And Flooding",0,1,1
+4781,2024-05-17,2024,48083,Coleman (County),Flood,"Severe Storms, Straight-Line Winds, Tornadoes, And Flooding",0,1,1
+4781,2024-05-17,2024,48449,Titus (County),Flood,"Severe Storms, Straight-Line Winds, Tornadoes, And Flooding",0,1,1
+4781,2024-05-17,2024,48001,Anderson (County),Flood,"Severe Storms, Straight-Line Winds, Tornadoes, And Flooding",0,1,1
+4781,2024-05-17,2024,48199,Hardin (County),Flood,"Severe Storms, Straight-Line Winds, Tornadoes, And Flooding",0,1,1
+4781,2024-05-17,2024,48257,Kaufman (County),Flood,"Severe Storms, Straight-Line Winds, Tornadoes, And Flooding",0,1,1
+4781,2024-05-17,2024,48017,Bailey (County),Flood,"Severe Storms, Straight-Line Winds, Tornadoes, And Flooding",0,1,1
+4781,2024-05-17,2024,48477,Washington (County),Flood,"Severe Storms, Straight-Line Winds, Tornadoes, And Flooding",0,1,1
+4781,2024-05-17,2024,48113,Dallas (County),Flood,"Severe Storms, Straight-Line Winds, Tornadoes, And Flooding",0,1,1
+4781,2024-05-17,2024,48305,Lynn (County),Flood,"Severe Storms, Straight-Line Winds, Tornadoes, And Flooding",0,1,1
+4781,2024-05-17,2024,48161,Freestone (County),Flood,"Severe Storms, Straight-Line Winds, Tornadoes, And Flooding",0,1,1
+4781,2024-05-17,2024,48281,Lampasas (County),Flood,"Severe Storms, Straight-Line Winds, Tornadoes, And Flooding",0,1,1
+4781,2024-05-17,2024,48139,Ellis (County),Flood,"Severe Storms, Straight-Line Winds, Tornadoes, And Flooding",0,1,1
+4781,2024-05-17,2024,48405,San Augustine (County),Flood,"Severe Storms, Straight-Line Winds, Tornadoes, And Flooding",0,1,1
+4781,2024-05-17,2024,48379,Rains (County),Flood,"Severe Storms, Straight-Line Winds, Tornadoes, And Flooding",0,1,1
+4781,2024-05-17,2024,48035,Bosque (County),Flood,"Severe Storms, Straight-Line Winds, Tornadoes, And Flooding",0,1,1
+4781,2024-05-17,2024,48187,Guadalupe (County),Flood,"Severe Storms, Straight-Line Winds, Tornadoes, And Flooding",0,1,1
+4781,2024-05-17,2024,48343,Morris (County),Flood,"Severe Storms, Straight-Line Winds, Tornadoes, And Flooding",0,1,1
+4781,2024-05-17,2024,48467,Van Zandt (County),Flood,"Severe Storms, Straight-Line Winds, Tornadoes, And Flooding",0,1,1
+4781,2024-05-17,2024,48085,Collin (County),Flood,"Severe Storms, Straight-Line Winds, Tornadoes, And Flooding",0,1,1
+4781,2024-05-17,2024,48077,Clay (County),Flood,"Severe Storms, Straight-Line Winds, Tornadoes, And Flooding",0,1,1
+4781,2024-05-17,2024,48119,Delta (County),Flood,"Severe Storms, Straight-Line Winds, Tornadoes, And Flooding",0,1,1
+4781,2024-05-17,2024,48079,Cochran (County),Flood,"Severe Storms, Straight-Line Winds, Tornadoes, And Flooding",0,1,1
+4781,2024-05-17,2024,48081,Coke (County),Flood,"Severe Storms, Straight-Line Winds, Tornadoes, And Flooding",0,1,1
+4781,2024-05-17,2024,48223,Hopkins (County),Flood,"Severe Storms, Straight-Line Winds, Tornadoes, And Flooding",0,1,1
+4781,2024-05-17,2024,48067,Cass (County),Flood,"Severe Storms, Straight-Line Winds, Tornadoes, And Flooding",0,1,1
+4781,2024-05-17,2024,48121,Denton (County),Flood,"Severe Storms, Straight-Line Winds, Tornadoes, And Flooding",0,1,1
+4781,2024-05-17,2024,48145,Falls (County),Flood,"Severe Storms, Straight-Line Winds, Tornadoes, And Flooding",0,1,1
+4781,2024-05-17,2024,48423,Smith (County),Flood,"Severe Storms, Straight-Line Winds, Tornadoes, And Flooding",0,1,1
+4781,2024-05-17,2024,48455,Trinity (County),Flood,"Severe Storms, Straight-Line Winds, Tornadoes, And Flooding",0,1,1
+4781,2024-05-17,2024,48457,Tyler (County),Flood,"Severe Storms, Straight-Line Winds, Tornadoes, And Flooding",0,1,1
+4781,2024-05-17,2024,48023,Baylor (County),Flood,"Severe Storms, Straight-Line Winds, Tornadoes, And Flooding",0,1,1
+4781,2024-05-17,2024,48097,Cooke (County),Flood,"Severe Storms, Straight-Line Winds, Tornadoes, And Flooding",0,1,1
+4781,2024-05-17,2024,48031,Blanco (County),Flood,"Severe Storms, Straight-Line Winds, Tornadoes, And Flooding",0,1,1
+4781,2024-05-17,2024,48411,San Saba (County),Flood,"Severe Storms, Straight-Line Winds, Tornadoes, And Flooding",0,1,1
+4781,2024-05-17,2024,48313,Madison (County),Flood,"Severe Storms, Straight-Line Winds, Tornadoes, And Flooding",0,1,1
+4781,2024-05-17,2024,48403,Sabine (County),Flood,"Severe Storms, Straight-Line Winds, Tornadoes, And Flooding",0,1,1
+4781,2024-05-17,2024,48095,Concho (County),Flood,"Severe Storms, Straight-Line Winds, Tornadoes, And Flooding",0,1,1
+4781,2024-05-17,2024,48201,Harris (County),Flood,"Severe Storms, Straight-Line Winds, Tornadoes, And Flooding",0,1,1
+4781,2024-05-17,2024,48253,Jones (County),Flood,"Severe Storms, Straight-Line Winds, Tornadoes, And Flooding",0,0,1
+4781,2024-05-17,2024,48387,Red River (County),Flood,"Severe Storms, Straight-Line Winds, Tornadoes, And Flooding",0,1,1
+4781,2024-05-17,2024,48333,Mills (County),Flood,"Severe Storms, Straight-Line Winds, Tornadoes, And Flooding",0,1,1
+4781,2024-05-17,2024,48277,Lamar (County),Flood,"Severe Storms, Straight-Line Winds, Tornadoes, And Flooding",0,1,1
+4781,2024-05-17,2024,48473,Waller (County),Flood,"Severe Storms, Straight-Line Winds, Tornadoes, And Flooding",0,1,1
+4781,2024-05-17,2024,48291,Liberty (County),Flood,"Severe Storms, Straight-Line Winds, Tornadoes, And Flooding",0,1,1
+4781,2024-05-17,2024,48397,Rockwall (County),Flood,"Severe Storms, Straight-Line Winds, Tornadoes, And Flooding",0,1,1
+4781,2024-05-17,2024,48027,Bell (County),Flood,"Severe Storms, Straight-Line Winds, Tornadoes, And Flooding",0,1,1
+4781,2024-05-17,2024,48307,McCulloch (County),Flood,"Severe Storms, Straight-Line Winds, Tornadoes, And Flooding",0,1,1
+4781,2024-05-17,2024,48037,Bowie (County),Flood,"Severe Storms, Straight-Line Winds, Tornadoes, And Flooding",0,1,1
+4781,2024-05-17,2024,48337,Montague (County),Flood,"Severe Storms, Straight-Line Winds, Tornadoes, And Flooding",0,1,1
+4781,2024-05-17,2024,48293,Limestone (County),Flood,"Severe Storms, Straight-Line Winds, Tornadoes, And Flooding",0,1,1
+4781,2024-05-17,2024,48373,Polk (County),Flood,"Severe Storms, Straight-Line Winds, Tornadoes, And Flooding",0,1,1
+4781,2024-05-17,2024,48099,Coryell (County),Flood,"Severe Storms, Straight-Line Winds, Tornadoes, And Flooding",0,1,1
+4781,2024-05-17,2024,48241,Jasper (County),Flood,"Severe Storms, Straight-Line Winds, Tornadoes, And Flooding",0,1,1
+4781,2024-05-17,2024,48209,Hays (County),Flood,"Severe Storms, Straight-Line Winds, Tornadoes, And Flooding",0,1,1
+4781,2024-05-17,2024,48073,Cherokee (County),Flood,"Severe Storms, Straight-Line Winds, Tornadoes, And Flooding",0,1,1
+4781,2024-05-17,2024,48185,Grimes (County),Flood,"Severe Storms, Straight-Line Winds, Tornadoes, And Flooding",0,1,1
+4781,2024-05-17,2024,48015,Austin (County),Flood,"Severe Storms, Straight-Line Winds, Tornadoes, And Flooding",0,1,1
+4781,2024-05-17,2024,48177,Gonzales (County),Flood,"Severe Storms, Straight-Line Winds, Tornadoes, And Flooding",0,1,1
+4781,2024-05-17,2024,48339,Montgomery (County),Flood,"Severe Storms, Straight-Line Winds, Tornadoes, And Flooding",0,1,1
+4781,2024-05-17,2024,48133,Eastland (County),Flood,"Severe Storms, Straight-Line Winds, Tornadoes, And Flooding",0,1,1
+4781,2024-05-17,2024,48049,Brown (County),Flood,"Severe Storms, Straight-Line Winds, Tornadoes, And Flooding",0,1,1
+4781,2024-05-17,2024,48347,Nacogdoches (County),Flood,"Severe Storms, Straight-Line Winds, Tornadoes, And Flooding",0,1,1
+4781,2024-05-17,2024,48471,Walker (County),Flood,"Severe Storms, Straight-Line Winds, Tornadoes, And Flooding",0,1,1
+5488,2024-02-27,2024,48393,Roberts (County),Fire,Smokehouse Creek Fire,0,1,1
+5488,2024-02-27,2024,48233,Hutchinson (County),Fire,Smokehouse Creek Fire,0,1,1
+5488,2024-02-27,2024,48211,Hemphill (County),Fire,Smokehouse Creek Fire,0,1,1
+5487,2024-02-27,2024,48341,Moore (County),Fire,Windy Deuce Fire,0,1,1
+4705,2023-04-21,2023,48387,Red River (County),Winter Storm,Severe Winter Storm,0,1,1
+4705,2023-04-21,2023,48213,Henderson (County),Winter Storm,Severe Winter Storm,0,1,1
+4705,2023-04-21,2023,48331,Milam (County),Winter Storm,Severe Winter Storm,0,1,1
+4705,2023-04-21,2023,48265,Kerr (County),Winter Storm,Severe Winter Storm,0,1,1
+4705,2023-04-21,2023,48001,Anderson (County),Winter Storm,Severe Winter Storm,0,1,1
+4705,2023-04-21,2023,48091,Comal (County),Winter Storm,Severe Winter Storm,0,1,1
+4705,2023-04-21,2023,48395,Robertson (County),Winter Storm,Severe Winter Storm,0,1,1
+4705,2023-04-21,2023,48293,Limestone (County),Winter Storm,Severe Winter Storm,0,1,1
+4705,2023-04-21,2023,48159,Franklin (County),Winter Storm,Severe Winter Storm,0,1,1
+4705,2023-04-21,2023,48051,Burleson (County),Winter Storm,Severe Winter Storm,0,1,1
+4705,2023-04-21,2023,48145,Falls (County),Winter Storm,Severe Winter Storm,0,1,1
+4705,2023-04-21,2023,48491,Williamson (County),Winter Storm,Severe Winter Storm,0,1,1
+4705,2023-04-21,2023,48031,Blanco (County),Winter Storm,Severe Winter Storm,0,1,1
+4705,2023-04-21,2023,48223,Hopkins (County),Winter Storm,Severe Winter Storm,0,1,1
+4705,2023-04-21,2023,48021,Bastrop (County),Winter Storm,Severe Winter Storm,0,1,1
+4705,2023-04-21,2023,48287,Lee (County),Winter Storm,Severe Winter Storm,0,1,1
+4705,2023-04-21,2023,48267,Kimble (County),Winter Storm,Severe Winter Storm,0,1,1
+4705,2023-04-21,2023,48209,Hays (County),Winter Storm,Severe Winter Storm,0,1,1
+4705,2023-04-21,2023,48453,Travis (County),Winter Storm,Severe Winter Storm,0,1,1
+4705,2023-04-21,2023,48171,Gillespie (County),Winter Storm,Severe Winter Storm,0,1,1
+4705,2023-04-21,2023,48053,Burnet (County),Winter Storm,Severe Winter Storm,0,1,1
+4705,2023-04-21,2023,48259,Kendall (County),Winter Storm,Severe Winter Storm,0,1,1
+4705,2023-04-21,2023,48289,Leon (County),Winter Storm,Severe Winter Storm,0,1,1
+5444,2022-07-19,2022,48425,Somervell (County),Fire,Chalk Mountain Fire,0,1,1
+5444,2022-07-19,2022,48221,Hood (County),Fire,Chalk Mountain Fire,0,1,1
+5443,2022-07-07,2022,48035,Bosque (County),Fire,Hard Castle Fire,0,1,1
+5440,2022-05-18,2022,48441,Taylor (County),Fire,Mesquite Heat Fire,0,1,1
+5429,2022-03-20,2022,48221,Hood (County),Fire,Big L Fire,0,1,1
+5428,2022-03-18,2022,48133,Eastland (County),Fire,Wheat Field Fire,0,1,1
+5427,2022-03-17,2022,48133,Eastland (County),Fire,Kidd Fire,0,1,1
+5422,2021-12-15,2022,48065,Carson (County),Fire,North 207 Fire,0,1,1
+5420,2021-12-10,2022,48485,Wichita (County),Fire,County Line Fire,0,1,1
+4586,2021-02-19,2021,48041,Brazos (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48137,Edwards (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48389,Reeves (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48455,Trinity (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48119,Delta (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48249,Jim Wells (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48361,Orange (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48295,Lipscomb (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48097,Cooke (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48335,Mitchell (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48037,Bowie (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48319,Mason (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48257,Kaufman (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48417,Shackelford (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48427,Starr (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48145,Falls (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48333,Mills (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48109,Culberson (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48063,Camp (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48473,Waller (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48093,Comanche (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48379,Rains (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48245,Jefferson (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48081,Coke (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48009,Archer (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48011,Armstrong (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48433,Stonewall (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48039,Brazoria (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48443,Terrell (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48025,Bee (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48205,Hartley (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48111,Dallam (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48115,Dawson (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48121,Denton (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48253,Jones (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48325,Medina (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48187,Guadalupe (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48231,Hunt (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48409,San Patricio (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48321,Matagorda (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48159,Franklin (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48141,El Paso (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48191,Hall (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48035,Bosque (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48015,Austin (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48381,Randall (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48125,Dickens (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48171,Gillespie (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48497,Wise (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48213,Henderson (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48029,Bexar (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48107,Crosby (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48065,Carson (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48255,Karnes (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48359,Oldham (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48449,Titus (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48161,Freestone (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48057,Calhoun (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48225,Houston (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48435,Sutton (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48463,Uvalde (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48375,Potter (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48403,Sabine (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48445,Terry (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48383,Reagan (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48079,Cochran (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48317,Martin (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48173,Glasscock (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48349,Navarro (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48251,Johnson (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48045,Briscoe (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48129,Donley (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48003,Andrews (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48053,Burnet (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48299,Llano (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48203,Harrison (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48275,Knox (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48199,Hardin (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48271,Kinney (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48305,Lynn (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48221,Hood (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48453,Travis (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48239,Jackson (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48085,Collin (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48269,King (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48131,Duval (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48233,Hutchinson (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48277,Lamar (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48061,Cameron (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48201,Harris (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48437,Swisher (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48365,Panola (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48135,Ector (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48411,San Saba (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48073,Cherokee (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48423,Smith (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48419,Shelby (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48415,Scurry (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48357,Ochiltree (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48153,Floyd (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48219,Hockley (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48345,Motley (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48469,Victoria (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48481,Wharton (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48179,Gray (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48215,Hidalgo (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48395,Robertson (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48301,Loving (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48133,Eastland (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48385,Real (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48261,Kenedy (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48323,Maverick (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48017,Bailey (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48259,Kendall (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48393,Roberts (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48377,Presidio (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48019,Bandera (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48355,Nueces (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48105,Crockett (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48343,Morris (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48347,Nacogdoches (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48297,Live Oak (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48465,Val Verde (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48457,Tyler (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48151,Fisher (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48263,Kent (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48069,Castro (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48005,Angelina (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48155,Foard (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48431,Sterling (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48147,Fannin (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48229,Hudspeth (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48485,Wichita (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48027,Bell (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48101,Cottle (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48369,Parmer (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48051,Burleson (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48467,Van Zandt (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48087,Collingsworth (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48351,Newton (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48167,Galveston (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48331,Milam (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48281,Lampasas (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48267,Kimble (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48499,Wood (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48059,Callahan (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48487,Wilbarger (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48157,Fort Bend (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48099,Coryell (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48489,Willacy (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48123,DeWitt (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48329,Midland (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48307,McCulloch (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48341,Moore (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48075,Childress (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48175,Goliad (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48217,Hill (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48405,San Augustine (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48189,Hale (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48315,Marion (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48165,Gaines (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48013,Atascosa (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48185,Grimes (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48033,Borden (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48407,San Jacinto (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48401,Rusk (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48425,Somervell (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48049,Brown (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48493,Wilson (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48177,Gonzales (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48247,Jim Hogg (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48113,Dallas (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48095,Concho (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48197,Hardeman (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48289,Leon (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48169,Garza (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48007,Aransas (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48339,Montgomery (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48117,Deaf Smith (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48447,Throckmorton (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48211,Hemphill (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48071,Chambers (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48139,Ellis (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48353,Nolan (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48491,Williamson (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48479,Webb (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48327,Menard (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48193,Hamilton (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48287,Lee (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48077,Clay (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48503,Young (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48001,Anderson (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48291,Liberty (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48021,Bastrop (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48207,Haskell (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48293,Limestone (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48031,Blanco (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48461,Upton (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48495,Winkler (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48459,Upshur (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48181,Grayson (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48373,Polk (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48235,Irion (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48471,Walker (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48337,Montague (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48043,Brewster (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48439,Tarrant (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48309,McLennan (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48183,Gregg (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48311,McMullen (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48367,Parker (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48091,Comal (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48143,Erath (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48501,Yoakum (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48397,Rockwall (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48023,Baylor (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48209,Hays (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48083,Coleman (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48505,Zapata (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48387,Red River (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48223,Hopkins (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48243,Jeff Davis (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48441,Taylor (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48483,Wheeler (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48399,Runnels (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48237,Jack (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48149,Fayette (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48089,Colorado (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48313,Madison (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48047,Brooks (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48227,Howard (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48391,Refugio (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48163,Frio (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48195,Hansford (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48363,Palo Pinto (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48265,Kerr (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48413,Schleicher (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48055,Caldwell (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48283,La Salle (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48103,Crane (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48279,Lamb (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48429,Stephens (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48477,Washington (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48475,Ward (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48421,Sherman (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48241,Jasper (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48451,Tom Green (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48285,Lavaca (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48127,Dimmit (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48371,Pecos (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48303,Lubbock (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48067,Cass (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48273,Kleberg (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+4586,2021-02-19,2021,48507,Zavala (County),Severe Ice Storm,Severe Winter Storms,0,1,1
+3554,2021-02-14,2021,48171,Gillespie (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48477,Washington (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48437,Swisher (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48151,Fisher (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48025,Bee (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48189,Hale (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48149,Fayette (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48297,Live Oak (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48269,King (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48187,Guadalupe (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48423,Smith (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48489,Willacy (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48041,Brazos (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48205,Hartley (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48497,Wise (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48427,Starr (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48063,Camp (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48459,Upshur (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48005,Angelina (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48003,Andrews (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48159,Franklin (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48245,Jefferson (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48069,Castro (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48421,Sherman (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48289,Leon (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48211,Hemphill (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48125,Dickens (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48123,DeWitt (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48111,Dallam (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48419,Shelby (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48279,Lamb (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48441,Taylor (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48141,El Paso (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48105,Crockett (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48223,Hopkins (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48145,Falls (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48049,Brown (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48499,Wood (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48475,Ward (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48351,Newton (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48487,Wilbarger (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48275,Knox (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48365,Panola (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48073,Cherokee (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48447,Throckmorton (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48193,Hamilton (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48061,Cameron (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48401,Rusk (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48195,Hansford (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48135,Ector (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48295,Lipscomb (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48267,Kimble (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48359,Oldham (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48255,Karnes (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48199,Hardin (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48179,Gray (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48375,Potter (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48039,Brazoria (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48373,Polk (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48201,Harris (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48417,Shackelford (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48389,Reeves (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48127,Dimmit (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48019,Bandera (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48343,Morris (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48169,Garza (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48483,Wheeler (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48491,Williamson (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48305,Lynn (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48283,La Salle (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48431,Sterling (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48015,Austin (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48215,Hidalgo (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48479,Webb (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48165,Gaines (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48371,Pecos (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48239,Jackson (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48033,Borden (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48247,Jim Hogg (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48233,Hutchinson (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48393,Roberts (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48407,San Jacinto (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48047,Brooks (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48175,Goliad (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48369,Parmer (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48293,Limestone (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48319,Mason (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48281,Lampasas (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48173,Glasscock (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48307,McCulloch (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48415,Scurry (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48237,Jack (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48261,Kenedy (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48077,Clay (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48485,Wichita (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48067,Cass (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48023,Baylor (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48285,Lavaca (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48425,Somervell (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48051,Burleson (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48317,Martin (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48203,Harrison (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48403,Sabine (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48355,Nueces (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48103,Crane (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48467,Van Zandt (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48465,Val Verde (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48341,Moore (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48001,Anderson (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48181,Grayson (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48083,Coleman (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48207,Haskell (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48411,San Saba (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48037,Bowie (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48451,Tom Green (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48397,Rockwall (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48137,Edwards (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48117,Deaf Smith (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48399,Runnels (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48095,Concho (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48075,Childress (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48081,Coke (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48471,Walker (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48183,Gregg (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48097,Cooke (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48301,Loving (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48353,Nolan (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48337,Montague (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48321,Matagorda (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48155,Foard (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48087,Collingsworth (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48277,Lamar (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48505,Zapata (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48361,Orange (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48385,Real (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48065,Carson (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48129,Donley (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48357,Ochiltree (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48445,Terry (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48197,Hardeman (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48265,Kerr (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48259,Kendall (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48055,Caldwell (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48367,Parker (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48449,Titus (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48323,Maverick (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48349,Navarro (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48473,Waller (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48217,Hill (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48257,Kaufman (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48379,Rains (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48315,Marion (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48413,Schleicher (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48273,Kleberg (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48381,Randall (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48395,Robertson (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48469,Victoria (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48507,Zavala (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48241,Jasper (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48455,Trinity (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48009,Archer (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48463,Uvalde (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48503,Young (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48185,Grimes (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48209,Hays (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48363,Palo Pinto (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48335,Mitchell (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48377,Presidio (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48309,McLennan (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48011,Armstrong (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48299,Llano (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48229,Hudspeth (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48481,Wharton (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48339,Montgomery (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48109,Culberson (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48345,Motley (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48501,Yoakum (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48035,Bosque (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48157,Fort Bend (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48303,Lubbock (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48461,Upton (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48121,Denton (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48131,Duval (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48029,Bexar (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48031,Blanco (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48329,Midland (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48079,Cochran (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48327,Menard (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48227,Howard (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48119,Delta (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48495,Winkler (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48107,Crosby (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48191,Hall (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48093,Comanche (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48263,Kent (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48291,Liberty (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48311,McMullen (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48253,Jones (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48115,Dawson (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48219,Hockley (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48249,Jim Wells (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48027,Bell (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48235,Irion (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48071,Chambers (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48243,Jeff Davis (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48013,Atascosa (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48405,San Augustine (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48045,Briscoe (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48017,Bailey (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48453,Travis (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48113,Dallas (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48057,Calhoun (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48089,Colorado (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48391,Refugio (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48325,Medina (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48213,Henderson (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48139,Ellis (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48313,Madison (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48163,Frio (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48053,Burnet (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48177,Gonzales (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48225,Houston (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48221,Hood (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48021,Bastrop (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48435,Sutton (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48457,Tyler (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48147,Fannin (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48085,Collin (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48287,Lee (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48333,Mills (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48443,Terrell (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48429,Stephens (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48231,Hunt (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48271,Kinney (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48091,Comal (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48493,Wilson (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48251,Johnson (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48059,Callahan (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48043,Brewster (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48347,Nacogdoches (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48433,Stonewall (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48161,Freestone (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48101,Cottle (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48007,Aransas (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48383,Reagan (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48153,Floyd (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48387,Red River (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48439,Tarrant (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48133,Eastland (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48099,Coryell (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48331,Milam (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48143,Erath (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48409,San Patricio (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+3554,2021-02-14,2021,48167,Galveston (County),Severe Ice Storm,Severe Winter Storm,0,1,0
+4572,2020-12-09,2021,48167,Galveston (County),Hurricane,Hurricane Laura,0,1,1
+4572,2020-12-09,2021,48241,Jasper (County),Hurricane,Hurricane Laura,0,1,1
+4572,2020-12-09,2021,48361,Orange (County),Hurricane,Hurricane Laura,0,1,1
+4572,2020-12-09,2021,48245,Jefferson (County),Hurricane,Hurricane Laura,0,1,1
+4572,2020-12-09,2021,48351,Newton (County),Hurricane,Hurricane Laura,0,1,1
+3540,2020-08-24,2020,48039,Brazoria (County),Hurricane,Tropical Storms Marco And Laura,0,1,0
+3540,2020-08-24,2020,48241,Jasper (County),Hurricane,Tropical Storms Marco And Laura,0,1,0
+3540,2020-08-24,2020,48057,Calhoun (County),Hurricane,Tropical Storms Marco And Laura,0,1,0
+3540,2020-08-24,2020,48469,Victoria (County),Hurricane,Tropical Storms Marco And Laura,0,1,0
+3540,2020-08-24,2020,48029,Bexar (County),Hurricane,Tropical Storms Marco And Laura,0,1,0
+3540,2020-08-24,2020,48225,Houston (County),Hurricane,Tropical Storms Marco And Laura,0,1,0
+3540,2020-08-24,2020,48361,Orange (County),Hurricane,Tropical Storms Marco And Laura,0,1,0
+3540,2020-08-24,2020,48273,Kleberg (County),Hurricane,Tropical Storms Marco And Laura,0,1,0
+3540,2020-08-24,2020,48067,Cass (County),Hurricane,Tropical Storms Marco And Laura,0,1,0
+3540,2020-08-24,2020,48063,Camp (County),Hurricane,Tropical Storms Marco And Laura,0,1,0
+3540,2020-08-24,2020,48159,Franklin (County),Hurricane,Tropical Storms Marco And Laura,0,1,0
+3540,2020-08-24,2020,48373,Polk (County),Hurricane,Tropical Storms Marco And Laura,0,1,0
+3540,2020-08-24,2020,48139,Ellis (County),Hurricane,Tropical Storms Marco And Laura,0,1,0
+3540,2020-08-24,2020,48455,Trinity (County),Hurricane,Tropical Storms Marco And Laura,0,1,0
+3540,2020-08-24,2020,48401,Rusk (County),Hurricane,Tropical Storms Marco And Laura,0,1,0
+3540,2020-08-24,2020,48355,Nueces (County),Hurricane,Tropical Storms Marco And Laura,0,1,0
+3540,2020-08-24,2020,48409,San Patricio (County),Hurricane,Tropical Storms Marco And Laura,0,1,0
+3540,2020-08-24,2020,48157,Fort Bend (County),Hurricane,Tropical Storms Marco And Laura,0,1,0
+3540,2020-08-24,2020,48073,Cherokee (County),Hurricane,Tropical Storms Marco And Laura,0,1,0
+3540,2020-08-24,2020,48261,Kenedy (County),Hurricane,Tropical Storms Marco And Laura,0,1,0
+3540,2020-08-24,2020,48061,Cameron (County),Hurricane,Tropical Storms Marco And Laura,0,1,0
+3540,2020-08-24,2020,48343,Morris (County),Hurricane,Tropical Storms Marco And Laura,0,1,0
+3540,2020-08-24,2020,48005,Angelina (County),Hurricane,Tropical Storms Marco And Laura,0,1,0
+3540,2020-08-24,2020,48419,Shelby (County),Hurricane,Tropical Storms Marco And Laura,0,1,0
+3540,2020-08-24,2020,48185,Grimes (County),Hurricane,Tropical Storms Marco And Laura,0,1,0
+3540,2020-08-24,2020,48245,Jefferson (County),Hurricane,Tropical Storms Marco And Laura,0,1,0
+3540,2020-08-24,2020,48449,Titus (County),Hurricane,Tropical Storms Marco And Laura,0,1,0
+3540,2020-08-24,2020,48113,Dallas (County),Hurricane,Tropical Storms Marco And Laura,0,1,0
+3540,2020-08-24,2020,48403,Sabine (County),Hurricane,Tropical Storms Marco And Laura,0,1,0
+3540,2020-08-24,2020,48291,Liberty (County),Hurricane,Tropical Storms Marco And Laura,0,1,0
+3540,2020-08-24,2020,48239,Jackson (County),Hurricane,Tropical Storms Marco And Laura,0,1,0
+3540,2020-08-24,2020,48387,Red River (County),Hurricane,Tropical Storms Marco And Laura,0,1,0
+3540,2020-08-24,2020,48489,Willacy (County),Hurricane,Tropical Storms Marco And Laura,0,1,0
+3540,2020-08-24,2020,48037,Bowie (County),Hurricane,Tropical Storms Marco And Laura,0,1,0
+3540,2020-08-24,2020,48481,Wharton (County),Hurricane,Tropical Storms Marco And Laura,0,1,0
+3540,2020-08-24,2020,48365,Panola (County),Hurricane,Tropical Storms Marco And Laura,0,1,0
+3540,2020-08-24,2020,48183,Gregg (County),Hurricane,Tropical Storms Marco And Laura,0,1,0
+3540,2020-08-24,2020,48473,Waller (County),Hurricane,Tropical Storms Marco And Laura,0,1,0
+3540,2020-08-24,2020,48351,Newton (County),Hurricane,Tropical Storms Marco And Laura,0,1,0
+3540,2020-08-24,2020,48315,Marion (County),Hurricane,Tropical Storms Marco And Laura,0,1,0
+3540,2020-08-24,2020,48001,Anderson (County),Hurricane,Tropical Storms Marco And Laura,0,1,0
+3540,2020-08-24,2020,48201,Harris (County),Hurricane,Tropical Storms Marco And Laura,0,1,0
+3540,2020-08-24,2020,48321,Matagorda (County),Hurricane,Tropical Storms Marco And Laura,0,1,0
+3540,2020-08-24,2020,48167,Galveston (County),Hurricane,Tropical Storms Marco And Laura,0,1,0
+3540,2020-08-24,2020,48459,Upshur (County),Hurricane,Tropical Storms Marco And Laura,0,1,0
+3540,2020-08-24,2020,48289,Leon (County),Hurricane,Tropical Storms Marco And Laura,0,1,0
+3540,2020-08-24,2020,48499,Wood (County),Hurricane,Tropical Storms Marco And Laura,0,1,0
+3540,2020-08-24,2020,48423,Smith (County),Hurricane,Tropical Storms Marco And Laura,0,1,0
+3540,2020-08-24,2020,48007,Aransas (County),Hurricane,Tropical Storms Marco And Laura,0,1,0
+3540,2020-08-24,2020,48471,Walker (County),Hurricane,Tropical Storms Marco And Laura,0,1,0
+3540,2020-08-24,2020,48347,Nacogdoches (County),Hurricane,Tropical Storms Marco And Laura,0,1,0
+3540,2020-08-24,2020,48453,Travis (County),Hurricane,Tropical Storms Marco And Laura,0,1,0
+3540,2020-08-24,2020,48203,Harrison (County),Hurricane,Tropical Storms Marco And Laura,0,1,0
+3540,2020-08-24,2020,48457,Tyler (County),Hurricane,Tropical Storms Marco And Laura,0,1,0
+3540,2020-08-24,2020,48391,Refugio (County),Hurricane,Tropical Storms Marco And Laura,0,1,0
+3540,2020-08-24,2020,48339,Montgomery (County),Hurricane,Tropical Storms Marco And Laura,0,1,0
+3540,2020-08-24,2020,48405,San Augustine (County),Hurricane,Tropical Storms Marco And Laura,0,1,0
+3540,2020-08-24,2020,48407,San Jacinto (County),Hurricane,Tropical Storms Marco And Laura,0,1,0
+3540,2020-08-24,2020,48071,Chambers (County),Hurricane,Tropical Storms Marco And Laura,0,1,0
+3540,2020-08-24,2020,48439,Tarrant (County),Hurricane,Tropical Storms Marco And Laura,0,1,0
+3540,2020-08-24,2020,48313,Madison (County),Hurricane,Tropical Storms Marco And Laura,0,1,0
+3540,2020-08-24,2020,48199,Hardin (County),Hurricane,Tropical Storms Marco And Laura,0,1,0
+3530,2020-07-26,2020,48297,Live Oak (County),Hurricane,Hurricane Hanna,0,1,0
+3530,2020-07-26,2020,48409,San Patricio (County),Hurricane,Hurricane Hanna,0,1,0
+3530,2020-07-26,2020,48025,Bee (County),Hurricane,Hurricane Hanna,0,1,0
+3530,2020-07-26,2020,48505,Zapata (County),Hurricane,Hurricane Hanna,0,1,0
+3530,2020-07-26,2020,48175,Goliad (County),Hurricane,Hurricane Hanna,0,1,0
+3530,2020-07-26,2020,48481,Wharton (County),Hurricane,Hurricane Hanna,0,1,0
+3530,2020-07-26,2020,48479,Webb (County),Hurricane,Hurricane Hanna,0,1,0
+3530,2020-07-26,2020,48047,Brooks (County),Hurricane,Hurricane Hanna,0,1,0
+3530,2020-07-26,2020,48261,Kenedy (County),Hurricane,Hurricane Hanna,0,1,0
+3530,2020-07-26,2020,48061,Cameron (County),Hurricane,Hurricane Hanna,0,1,0
+3530,2020-07-26,2020,48489,Willacy (County),Hurricane,Hurricane Hanna,0,1,0
+3530,2020-07-26,2020,48311,McMullen (County),Hurricane,Hurricane Hanna,0,1,0
+3530,2020-07-26,2020,48273,Kleberg (County),Hurricane,Hurricane Hanna,0,1,0
+3530,2020-07-26,2020,48355,Nueces (County),Hurricane,Hurricane Hanna,0,1,0
+3530,2020-07-26,2020,48007,Aransas (County),Hurricane,Hurricane Hanna,0,1,0
+3530,2020-07-26,2020,48131,Duval (County),Hurricane,Hurricane Hanna,0,1,0
+3530,2020-07-26,2020,48167,Galveston (County),Hurricane,Hurricane Hanna,0,1,0
+3530,2020-07-26,2020,48283,La Salle (County),Hurricane,Hurricane Hanna,0,1,0
+3530,2020-07-26,2020,48157,Fort Bend (County),Hurricane,Hurricane Hanna,0,1,0
+3530,2020-07-26,2020,48201,Harris (County),Hurricane,Hurricane Hanna,0,1,0
+3530,2020-07-26,2020,48239,Jackson (County),Hurricane,Hurricane Hanna,0,1,0
+3530,2020-07-26,2020,48469,Victoria (County),Hurricane,Hurricane Hanna,0,1,0
+3530,2020-07-26,2020,48321,Matagorda (County),Hurricane,Hurricane Hanna,0,1,0
+3530,2020-07-26,2020,48391,Refugio (County),Hurricane,Hurricane Hanna,0,1,0
+3530,2020-07-26,2020,48039,Brazoria (County),Hurricane,Hurricane Hanna,0,1,0
+3530,2020-07-26,2020,48249,Jim Wells (County),Hurricane,Hurricane Hanna,0,1,0
+3530,2020-07-26,2020,48427,Starr (County),Hurricane,Hurricane Hanna,0,1,0
+3530,2020-07-26,2020,48127,Dimmit (County),Hurricane,Hurricane Hanna,0,1,0
+3530,2020-07-26,2020,48057,Calhoun (County),Hurricane,Hurricane Hanna,0,1,0
+3530,2020-07-26,2020,48029,Bexar (County),Hurricane,Hurricane Hanna,0,1,0
+3530,2020-07-26,2020,48247,Jim Hogg (County),Hurricane,Hurricane Hanna,0,1,0
+3530,2020-07-26,2020,48215,Hidalgo (County),Hurricane,Hurricane Hanna,0,1,0
+4485,2020-03-25,2020,48357,Ochiltree (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48077,Clay (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48073,Cherokee (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48059,Callahan (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48121,Denton (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48449,Titus (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48225,Houston (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48345,Motley (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48037,Bowie (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48233,Hutchinson (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48403,Sabine (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48145,Falls (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48125,Dickens (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48061,Cameron (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48215,Hidalgo (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48017,Bailey (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48227,Howard (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48461,Upton (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48241,Jasper (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48113,Dallas (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48229,Hudspeth (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48131,Duval (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48437,Swisher (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48243,Jeff Davis (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48409,San Patricio (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48175,Goliad (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48085,Collin (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48385,Real (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48375,Potter (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48373,Polk (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48465,Val Verde (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48483,Wheeler (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48177,Gonzales (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48341,Moore (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48197,Hardeman (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48081,Coke (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48293,Limestone (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48367,Parker (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48329,Midland (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48047,Brooks (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48495,Winkler (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48105,Crockett (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48327,Menard (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48103,Crane (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48101,Cottle (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48207,Haskell (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48381,Randall (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48371,Pecos (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48151,Fisher (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48299,Llano (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48000,Kickapoo Reservation,Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48413,Schleicher (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48007,Aransas (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48473,Waller (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48475,Ward (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48423,Smith (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48355,Nueces (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48347,Nacogdoches (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48201,Harris (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48071,Chambers (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48269,King (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48343,Morris (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48331,Milam (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48115,Dawson (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48431,Sterling (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48507,Zavala (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48441,Taylor (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48195,Hansford (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48009,Archer (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48433,Stonewall (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48291,Liberty (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48481,Wharton (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48313,Madison (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48055,Caldwell (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48199,Hardin (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48439,Tarrant (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48467,Van Zandt (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48383,Reagan (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48315,Marion (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48217,Hill (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48353,Nolan (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48000,Ysleta del Sur Pueblo (Indian Reservation),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48093,Comanche (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48035,Bosque (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48179,Gray (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48399,Runnels (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48487,Wilbarger (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48183,Gregg (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48443,Terrell (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48027,Bell (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48305,Lynn (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48297,Live Oak (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48263,Kent (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48369,Parmer (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48505,Zapata (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48469,Victoria (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48287,Lee (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48295,Lipscomb (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48285,Lavaca (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48245,Jefferson (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48211,Hemphill (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48235,Irion (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48277,Lamar (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48425,Somervell (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48301,Loving (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48421,Sherman (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48041,Brazos (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48273,Kleberg (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48265,Kerr (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48079,Cochran (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48453,Travis (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48503,Young (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48141,El Paso (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48417,Shackelford (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48255,Karnes (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48377,Presidio (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48479,Webb (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48407,San Jacinto (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48491,Williamson (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48237,Jack (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48167,Galveston (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48005,Angelina (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48039,Brazoria (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48011,Armstrong (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48379,Rains (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48187,Guadalupe (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48339,Montgomery (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48117,Deaf Smith (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48137,Edwards (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48251,Johnson (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48427,Starr (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48163,Frio (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48155,Foard (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48091,Comal (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48239,Jackson (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48303,Lubbock (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48267,Kimble (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48221,Hood (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48457,Tyler (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48351,Newton (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48359,Oldham (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48001,Anderson (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48247,Jim Hogg (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48033,Borden (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48435,Sutton (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48397,Rockwall (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48123,DeWitt (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48053,Burnet (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48223,Hopkins (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48275,Knox (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48499,Wood (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48309,McLennan (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48000,Alabama Coushatta Tribe of Texas,Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48083,Coleman (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48317,Martin (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48111,Dallam (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48159,Franklin (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48279,Lamb (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48149,Fayette (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48205,Hartley (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48133,Eastland (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48213,Henderson (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48391,Refugio (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48171,Gillespie (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48257,Kaufman (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48405,San Augustine (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48455,Trinity (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48191,Hall (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48189,Hale (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48389,Reeves (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48193,Hamilton (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48325,Medina (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48099,Coryell (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48003,Andrews (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48153,Floyd (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48429,Stephens (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48401,Rusk (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48319,Mason (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48075,Childress (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48147,Fannin (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48209,Hays (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48143,Erath (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48411,San Saba (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48051,Burleson (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48045,Briscoe (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48281,Lampasas (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48419,Shelby (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48485,Wichita (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48161,Freestone (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48387,Red River (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48013,Atascosa (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48321,Matagorda (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48261,Kenedy (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48049,Brown (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48043,Brewster (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48459,Upshur (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48067,Cass (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48365,Panola (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48477,Washington (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48361,Orange (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48025,Bee (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48463,Uvalde (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48271,Kinney (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48029,Bexar (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48169,Garza (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48119,Delta (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48447,Throckmorton (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48019,Bandera (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48165,Gaines (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48023,Baylor (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48089,Colorado (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48445,Terry (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48063,Camp (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48185,Grimes (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48253,Jones (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48471,Walker (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48307,McCulloch (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48259,Kendall (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48219,Hockley (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48095,Concho (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48057,Calhoun (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48181,Grayson (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48335,Mitchell (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48127,Dimmit (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48311,McMullen (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48393,Roberts (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48031,Blanco (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48415,Scurry (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48323,Maverick (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48493,Wilson (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48497,Wise (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48021,Bastrop (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48203,Harrison (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48333,Mills (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48087,Collingsworth (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48135,Ector (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48157,Fort Bend (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48069,Castro (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48337,Montague (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48501,Yoakum (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48173,Glasscock (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48107,Crosby (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48363,Palo Pinto (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48451,Tom Green (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48289,Leon (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48349,Navarro (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48395,Robertson (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48015,Austin (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48489,Willacy (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48139,Ellis (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48109,Culberson (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48065,Carson (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48231,Hunt (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48129,Donley (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48097,Cooke (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48249,Jim Wells (County),Biological,Covid-19 Pandemic,0,1,1
+4485,2020-03-25,2020,48283,La Salle (County),Biological,Covid-19 Pandemic,0,1,1
+3501,2020-03-13,2020,48000,Alabama Coushatta Tribe of Texas,Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48341,Moore (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48157,Fort Bend (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48165,Gaines (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48505,Zapata (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48127,Dimmit (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48125,Dickens (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48237,Jack (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48315,Marion (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48137,Edwards (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48113,Dallas (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48057,Calhoun (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48445,Terry (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48091,Comal (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48391,Refugio (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48047,Brooks (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48000,Kickapoo Reservation,Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48379,Rains (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48339,Montgomery (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48347,Nacogdoches (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48135,Ector (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48459,Upshur (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48429,Stephens (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48369,Parmer (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48117,Deaf Smith (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48000,Ysleta del Sur Pueblo (Indian Reservation),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48405,San Augustine (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48333,Mills (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48109,Culberson (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48255,Karnes (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48387,Red River (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48013,Atascosa (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48239,Jackson (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48301,Loving (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48377,Presidio (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48179,Gray (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48455,Trinity (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48181,Grayson (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48321,Matagorda (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48395,Robertson (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48329,Midland (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48373,Polk (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48471,Walker (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48045,Briscoe (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48155,Foard (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48175,Goliad (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48103,Crane (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48093,Comanche (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48343,Morris (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48439,Tarrant (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48485,Wichita (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48015,Austin (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48427,Starr (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48247,Jim Hogg (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48371,Pecos (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48357,Ochiltree (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48223,Hopkins (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48269,King (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48201,Harris (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48005,Angelina (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48409,San Patricio (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48051,Burleson (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48363,Palo Pinto (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48493,Wilson (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48129,Donley (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48431,Sterling (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48481,Wharton (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48349,Navarro (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48461,Upton (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48139,Ellis (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48115,Dawson (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48067,Cass (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48119,Delta (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48507,Zavala (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48107,Crosby (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48029,Bexar (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48393,Roberts (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48287,Lee (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48227,Howard (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48159,Franklin (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48501,Yoakum (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48421,Sherman (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48037,Bowie (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48049,Brown (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48265,Kerr (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48353,Nolan (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48443,Terrell (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48441,Taylor (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48483,Wheeler (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48297,Live Oak (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48199,Hardin (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48087,Collingsworth (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48099,Coryell (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48335,Mitchell (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48295,Lipscomb (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48331,Milam (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48499,Wood (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48229,Hudspeth (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48153,Floyd (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48003,Andrews (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48245,Jefferson (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48033,Borden (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48477,Washington (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48355,Nueces (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48105,Crockett (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48457,Tyler (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48161,Freestone (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48381,Randall (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48167,Galveston (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48419,Shelby (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48213,Henderson (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48095,Concho (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48163,Frio (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48097,Cooke (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48055,Caldwell (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48063,Camp (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48203,Harrison (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48031,Blanco (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48069,Castro (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48081,Coke (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48309,McLennan (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48131,Duval (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48225,Houston (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48453,Travis (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48215,Hidalgo (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48041,Brazos (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48173,Glasscock (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48479,Webb (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48007,Aransas (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48451,Tom Green (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48305,Lynn (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48183,Gregg (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48469,Victoria (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48101,Cottle (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48407,San Jacinto (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48085,Collin (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48077,Clay (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48059,Callahan (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48433,Stonewall (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48141,El Paso (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48401,Rusk (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48073,Cherokee (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48191,Hall (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48001,Anderson (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48121,Denton (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48417,Shackelford (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48207,Haskell (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48397,Rockwall (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48279,Lamb (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48061,Cameron (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48449,Titus (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48145,Falls (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48241,Jasper (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48219,Hockley (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48027,Bell (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48195,Hansford (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48437,Swisher (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48475,Ward (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48337,Montague (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48143,Erath (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48411,San Saba (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48497,Wise (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48447,Throckmorton (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48211,Hemphill (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48435,Sutton (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48147,Fannin (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48111,Dallam (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48261,Kenedy (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48039,Brazoria (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48009,Archer (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48071,Chambers (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48235,Irion (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48169,Garza (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48463,Uvalde (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48221,Hood (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48323,Maverick (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48205,Hartley (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48473,Waller (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48263,Kent (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48361,Orange (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48023,Baylor (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48257,Kaufman (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48413,Schleicher (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48231,Hunt (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48503,Young (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48151,Fisher (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48053,Burnet (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48319,Mason (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48185,Grimes (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48193,Hamilton (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48325,Medina (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48149,Fayette (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48277,Lamar (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48291,Liberty (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48399,Runnels (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48025,Bee (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48177,Gonzales (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48187,Guadalupe (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48197,Hardeman (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48075,Childress (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48243,Jeff Davis (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48495,Winkler (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48019,Bandera (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48065,Carson (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48089,Colorado (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48079,Cochran (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48345,Motley (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48303,Lubbock (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48267,Kimble (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48351,Newton (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48283,La Salle (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48271,Kinney (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48083,Coleman (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48359,Oldham (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48171,Gillespie (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48365,Panola (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48000,Alabama Coushatta Tribe of Texas,Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48299,Llano (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48249,Jim Wells (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48293,Limestone (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48403,Sabine (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48035,Bosque (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48415,Scurry (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48011,Armstrong (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48253,Jones (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48289,Leon (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48123,DeWitt (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48423,Smith (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48327,Menard (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48189,Hale (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48281,Lampasas (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48217,Hill (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48385,Real (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48259,Kendall (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48209,Hays (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48313,Madison (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48043,Brewster (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48017,Bailey (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48375,Potter (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48491,Williamson (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48425,Somervell (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48489,Willacy (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48251,Johnson (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48467,Van Zandt (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48311,McMullen (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48487,Wilbarger (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48307,McCulloch (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48275,Knox (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48133,Eastland (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48285,Lavaca (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48273,Kleberg (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48389,Reeves (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48233,Hutchinson (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48465,Val Verde (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48367,Parker (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48383,Reagan (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48021,Bastrop (County),Biological,Covid-19,0,1,0
+3458,2020-03-13,2020,48317,Martin (County),Biological,Covid-19,0,1,0
+4466,2019-10-04,2020,48339,Montgomery (County),Flood,Tropical Storm Imelda,0,0,1
+4466,2019-10-04,2020,48071,Chambers (County),Flood,Tropical Storm Imelda,0,0,1
+4466,2019-10-04,2020,48291,Liberty (County),Flood,Tropical Storm Imelda,0,0,1
+4466,2019-10-04,2020,48201,Harris (County),Flood,Tropical Storm Imelda,0,0,1
+4466,2019-10-04,2020,48245,Jefferson (County),Flood,Tropical Storm Imelda,0,0,1
+4466,2019-10-04,2020,48407,San Jacinto (County),Flood,Tropical Storm Imelda,0,0,1
+4466,2019-10-04,2020,48361,Orange (County),Flood,Tropical Storm Imelda,0,0,1
+5288,2019-08-18,2019,48197,Hardeman (County),Fire,Copper Breaks Fire,0,1,1
+4454,2019-07-17,2019,48061,Cameron (County),Flood,Severe Storms And Flooding,0,0,1
+4454,2019-07-17,2019,48489,Willacy (County),Flood,Severe Storms And Flooding,0,0,1
+4454,2019-07-17,2019,48215,Hidalgo (County),Flood,Severe Storms And Flooding,0,0,1
+4416,2019-02-25,2019,48313,Madison (County),Flood,Severe Storms And Flooding,0,1,1
+4416,2019-02-25,2019,48319,Mason (County),Flood,Severe Storms And Flooding,0,1,1
+4416,2019-02-25,2019,48185,Grimes (County),Flood,Severe Storms And Flooding,0,1,1
+4416,2019-02-25,2019,48271,Kinney (County),Flood,Severe Storms And Flooding,0,1,1
+4416,2019-02-25,2019,48127,Dimmit (County),Flood,Severe Storms And Flooding,0,1,1
+4416,2019-02-25,2019,48463,Uvalde (County),Flood,Severe Storms And Flooding,0,1,1
+4416,2019-02-25,2019,48411,San Saba (County),Flood,Severe Storms And Flooding,0,1,1
+4416,2019-02-25,2019,48093,Comanche (County),Flood,Severe Storms And Flooding,0,1,1
+4416,2019-02-25,2019,48009,Archer (County),Flood,Severe Storms And Flooding,0,1,1
+4416,2019-02-25,2019,48465,Val Verde (County),Flood,Severe Storms And Flooding,0,1,1
+4416,2019-02-25,2019,48225,Houston (County),Flood,Severe Storms And Flooding,0,1,1
+4416,2019-02-25,2019,48159,Franklin (County),Flood,Severe Storms And Flooding,0,1,1
+4416,2019-02-25,2019,48453,Travis (County),Flood,Severe Storms And Flooding,0,1,1
+4416,2019-02-25,2019,48253,Jones (County),Flood,Severe Storms And Flooding,0,1,1
+4416,2019-02-25,2019,48385,Real (County),Flood,Severe Storms And Flooding,0,1,1
+4416,2019-02-25,2019,48327,Menard (County),Flood,Severe Storms And Flooding,0,1,1
+4416,2019-02-25,2019,48099,Coryell (County),Flood,Severe Storms And Flooding,0,1,1
+4416,2019-02-25,2019,48049,Brown (County),Flood,Severe Storms And Flooding,0,1,1
+4416,2019-02-25,2019,48053,Burnet (County),Flood,Severe Storms And Flooding,0,1,1
+4416,2019-02-25,2019,48275,Knox (County),Flood,Severe Storms And Flooding,0,1,1
+4416,2019-02-25,2019,48435,Sutton (County),Flood,Severe Storms And Flooding,0,1,1
+4416,2019-02-25,2019,48147,Fannin (County),Flood,Severe Storms And Flooding,0,1,1
+4416,2019-02-25,2019,48023,Baylor (County),Flood,Severe Storms And Flooding,0,1,1
+4416,2019-02-25,2019,48353,Nolan (County),Flood,Severe Storms And Flooding,0,1,1
+4416,2019-02-25,2019,48471,Walker (County),Flood,Severe Storms And Flooding,0,1,1
+4416,2019-02-25,2019,48059,Callahan (County),Flood,Severe Storms And Flooding,0,1,1
+4416,2019-02-25,2019,48217,Hill (County),Flood,Severe Storms And Flooding,0,1,1
+4416,2019-02-25,2019,48373,Polk (County),Flood,Severe Storms And Flooding,0,1,1
+4416,2019-02-25,2019,48137,Edwards (County),Flood,Severe Storms And Flooding,0,1,1
+4416,2019-02-25,2019,48267,Kimble (County),Flood,Severe Storms And Flooding,0,1,1
+4416,2019-02-25,2019,48207,Haskell (County),Flood,Severe Storms And Flooding,0,1,1
+4416,2019-02-25,2019,48447,Throckmorton (County),Flood,Severe Storms And Flooding,0,1,1
+4416,2019-02-25,2019,48413,Schleicher (County),Flood,Severe Storms And Flooding,0,1,1
+4416,2019-02-25,2019,48223,Hopkins (County),Flood,Severe Storms And Flooding,0,1,1
+4416,2019-02-25,2019,48307,McCulloch (County),Flood,Severe Storms And Flooding,0,1,1
+4416,2019-02-25,2019,48299,Llano (County),Flood,Severe Storms And Flooding,0,1,1
+5264,2018-07-29,2018,48053,Burnet (County),Fire,Park Road Fire,0,1,1
+5258,2018-07-23,2018,48049,Brown (County),Fire,259 Fire,0,1,1
+4377,2018-07-06,2018,48249,Jim Wells (County),Flood,Severe Storms And Flooding,0,0,1
+4377,2018-07-06,2018,48215,Hidalgo (County),Flood,Severe Storms And Flooding,0,0,1
+4377,2018-07-06,2018,48061,Cameron (County),Flood,Severe Storms And Flooding,0,0,1
+5237,2018-05-02,2018,48243,Jeff Davis (County),Fire,Mcdannald Fire,0,1,1
+5235,2018-04-18,2018,48179,Gray (County),Fire,Mcclellan Fire,0,1,1
+5234,2018-04-14,2018,48253,Jones (County),Fire,335 Fire,0,1,1
+5233,2018-04-13,2018,48233,Hutchinson (County),Fire,Harbor Bay Fire,0,1,1
+4332,2017-08-25,2017,48481,Wharton (County),Hurricane,Hurricane Harvey,0,1,1
+4332,2017-08-25,2017,48361,Orange (County),Hurricane,Hurricane Harvey,0,1,1
+4332,2017-08-25,2017,48239,Jackson (County),Hurricane,Hurricane Harvey,0,1,1
+4332,2017-08-25,2017,48167,Galveston (County),Hurricane,Hurricane Harvey,0,1,1
+4332,2017-08-25,2017,48055,Caldwell (County),Hurricane,Hurricane Harvey,0,1,1
+4332,2017-08-25,2017,48021,Bastrop (County),Hurricane,Hurricane Harvey,0,1,1
+4332,2017-08-25,2017,48351,Newton (County),Hurricane,Hurricane Harvey,0,1,1
+4332,2017-08-25,2017,48199,Hardin (County),Hurricane,Hurricane Harvey,0,1,1
+4332,2017-08-25,2017,48391,Refugio (County),Hurricane,Hurricane Harvey,0,1,1
+4332,2017-08-25,2017,48149,Fayette (County),Hurricane,Hurricane Harvey,0,1,1
+4332,2017-08-25,2017,48255,Karnes (County),Hurricane,Hurricane Harvey,0,1,1
+4332,2017-08-25,2017,48029,Bexar (County),Hurricane,Hurricane Harvey,0,1,1
+4332,2017-08-25,2017,48453,Travis (County),Hurricane,Hurricane Harvey,0,1,1
+4332,2017-08-25,2017,48321,Matagorda (County),Hurricane,Hurricane Harvey,0,1,1
+4332,2017-08-25,2017,48355,Nueces (County),Hurricane,Hurricane Harvey,0,1,1
+4332,2017-08-25,2017,48457,Tyler (County),Hurricane,Hurricane Harvey,0,1,1
+4332,2017-08-25,2017,48313,Madison (County),Hurricane,Hurricane Harvey,0,1,1
+4332,2017-08-25,2017,48201,Harris (County),Hurricane,Hurricane Harvey,0,1,1
+4332,2017-08-25,2017,48439,Tarrant (County),Hurricane,Hurricane Harvey,0,1,1
+4332,2017-08-25,2017,48113,Dallas (County),Hurricane,Hurricane Harvey,0,1,1
+4332,2017-08-25,2017,48241,Jasper (County),Hurricane,Hurricane Harvey,0,1,1
+4332,2017-08-25,2017,48273,Kleberg (County),Hurricane,Hurricane Harvey,0,1,1
+4332,2017-08-25,2017,48007,Aransas (County),Hurricane,Hurricane Harvey,0,1,1
+4332,2017-08-25,2017,48409,San Patricio (County),Hurricane,Hurricane Harvey,0,1,1
+4332,2017-08-25,2017,48291,Liberty (County),Hurricane,Hurricane Harvey,0,1,1
+4332,2017-08-25,2017,48477,Washington (County),Hurricane,Hurricane Harvey,0,1,1
+4332,2017-08-25,2017,48039,Brazoria (County),Hurricane,Hurricane Harvey,0,1,1
+4332,2017-08-25,2017,48015,Austin (County),Hurricane,Hurricane Harvey,0,1,1
+4332,2017-08-25,2017,48025,Bee (County),Hurricane,Hurricane Harvey,0,1,1
+4332,2017-08-25,2017,48287,Lee (County),Hurricane,Hurricane Harvey,0,1,1
+4332,2017-08-25,2017,48057,Calhoun (County),Hurricane,Hurricane Harvey,0,1,1
+4332,2017-08-25,2017,48089,Colorado (County),Hurricane,Hurricane Harvey,0,1,1
+4332,2017-08-25,2017,48339,Montgomery (County),Hurricane,Hurricane Harvey,0,1,1
+4332,2017-08-25,2017,48245,Jefferson (County),Hurricane,Hurricane Harvey,0,1,1
+4332,2017-08-25,2017,48249,Jim Wells (County),Hurricane,Hurricane Harvey,0,1,1
+4332,2017-08-25,2017,48177,Gonzales (County),Hurricane,Hurricane Harvey,0,1,1
+4332,2017-08-25,2017,48473,Waller (County),Hurricane,Hurricane Harvey,0,1,1
+4332,2017-08-25,2017,48185,Grimes (County),Hurricane,Hurricane Harvey,0,1,1
+4332,2017-08-25,2017,48403,Sabine (County),Hurricane,Hurricane Harvey,0,1,1
+4332,2017-08-25,2017,48405,San Augustine (County),Hurricane,Hurricane Harvey,0,1,1
+4332,2017-08-25,2017,48407,San Jacinto (County),Hurricane,Hurricane Harvey,0,1,1
+4332,2017-08-25,2017,48331,Milam (County),Hurricane,Hurricane Harvey,0,1,1
+4332,2017-08-25,2017,48091,Comal (County),Hurricane,Hurricane Harvey,0,1,1
+4332,2017-08-25,2017,48157,Fort Bend (County),Hurricane,Hurricane Harvey,0,1,1
+4332,2017-08-25,2017,48071,Chambers (County),Hurricane,Hurricane Harvey,0,1,1
+4332,2017-08-25,2017,48469,Victoria (County),Hurricane,Hurricane Harvey,0,1,1
+4332,2017-08-25,2017,48285,Lavaca (County),Hurricane,Hurricane Harvey,0,1,1
+4332,2017-08-25,2017,48187,Guadalupe (County),Hurricane,Hurricane Harvey,0,1,1
+4332,2017-08-25,2017,48123,DeWitt (County),Hurricane,Hurricane Harvey,0,1,1
+4332,2017-08-25,2017,48471,Walker (County),Hurricane,Hurricane Harvey,0,1,1
+4332,2017-08-25,2017,48175,Goliad (County),Hurricane,Hurricane Harvey,0,1,1
+4332,2017-08-25,2017,48051,Burleson (County),Hurricane,Hurricane Harvey,0,1,1
+4332,2017-08-25,2017,48373,Polk (County),Hurricane,Hurricane Harvey,0,1,1
+4272,2016-06-11,2016,48291,Liberty (County),Flood,Severe Storms And Flooding,0,1,1
+4272,2016-06-11,2016,48199,Hardin (County),Flood,Severe Storms And Flooding,0,1,0
+4272,2016-06-11,2016,48425,Somervell (County),Flood,Severe Storms And Flooding,0,1,1
+4272,2016-06-11,2016,48051,Burleson (County),Flood,Severe Storms And Flooding,0,1,1
+4272,2016-06-11,2016,48145,Falls (County),Flood,Severe Storms And Flooding,0,1,1
+4272,2016-06-11,2016,48221,Hood (County),Flood,Severe Storms And Flooding,0,1,1
+4272,2016-06-11,2016,48215,Hidalgo (County),Flood,Severe Storms And Flooding,0,1,1
+4272,2016-06-11,2016,48143,Erath (County),Flood,Severe Storms And Flooding,0,1,1
+4272,2016-06-11,2016,48289,Leon (County),Flood,Severe Storms And Flooding,0,1,1
+4272,2016-06-11,2016,48407,San Jacinto (County),Flood,Severe Storms And Flooding,0,1,1
+4272,2016-06-11,2016,48471,Walker (County),Flood,Severe Storms And Flooding,0,1,1
+4272,2016-06-11,2016,48363,Palo Pinto (County),Flood,Severe Storms And Flooding,0,1,1
+4272,2016-06-11,2016,48313,Madison (County),Flood,Severe Storms And Flooding,0,1,1
+4272,2016-06-11,2016,48035,Bosque (County),Flood,Severe Storms And Flooding,0,1,1
+4272,2016-06-11,2016,48191,Hall (County),Flood,Severe Storms And Flooding,0,1,1
+4272,2016-06-11,2016,48133,Eastland (County),Flood,Severe Storms And Flooding,0,1,1
+4272,2016-06-11,2016,48339,Montgomery (County),Flood,Severe Storms And Flooding,0,1,1
+4272,2016-06-11,2016,48093,Comanche (County),Flood,Severe Storms And Flooding,0,1,1
+4272,2016-06-11,2016,48041,Brazos (County),Flood,Severe Storms And Flooding,0,1,1
+4272,2016-06-11,2016,48273,Kleberg (County),Flood,Severe Storms And Flooding,0,1,1
+4272,2016-06-11,2016,48039,Brazoria (County),Flood,Severe Storms And Flooding,0,1,1
+4272,2016-06-11,2016,48049,Brown (County),Flood,Severe Storms And Flooding,0,1,1
+4272,2016-06-11,2016,48457,Tyler (County),Flood,Severe Storms And Flooding,0,1,1
+4272,2016-06-11,2016,48015,Austin (County),Flood,Severe Storms And Flooding,0,1,1
+4272,2016-06-11,2016,48225,Houston (County),Flood,Severe Storms And Flooding,0,1,1
+4272,2016-06-11,2016,48477,Washington (County),Flood,Severe Storms And Flooding,0,1,1
+4272,2016-06-11,2016,48059,Callahan (County),Flood,Severe Storms And Flooding,0,1,1
+4272,2016-06-11,2016,48455,Trinity (County),Flood,Severe Storms And Flooding,0,1,1
+4272,2016-06-11,2016,48349,Navarro (County),Flood,Severe Storms And Flooding,0,1,0
+4272,2016-06-11,2016,48149,Fayette (County),Flood,Severe Storms And Flooding,0,1,1
+4272,2016-06-11,2016,48453,Travis (County),Flood,Severe Storms And Flooding,0,1,1
+4272,2016-06-11,2016,48473,Waller (County),Flood,Severe Storms And Flooding,0,1,1
+4272,2016-06-11,2016,48157,Fort Bend (County),Flood,Severe Storms And Flooding,0,1,1
+4272,2016-06-11,2016,48201,Harris (County),Flood,Severe Storms And Flooding,0,0,1
+4272,2016-06-11,2016,48083,Coleman (County),Flood,Severe Storms And Flooding,0,1,1
+4272,2016-06-11,2016,48151,Fisher (County),Flood,Severe Storms And Flooding,0,1,1
+4272,2016-06-11,2016,48367,Parker (County),Flood,Severe Storms And Flooding,0,0,1
+4272,2016-06-11,2016,48429,Stephens (County),Flood,Severe Storms And Flooding,0,1,1
+4272,2016-06-11,2016,48019,Bandera (County),Flood,Severe Storms And Flooding,0,1,1
+4272,2016-06-11,2016,48373,Polk (County),Flood,Severe Storms And Flooding,0,1,1
+4272,2016-06-11,2016,48241,Jasper (County),Flood,Severe Storms And Flooding,0,1,1
+4272,2016-06-11,2016,48447,Throckmorton (County),Flood,Severe Storms And Flooding,0,1,0
+4272,2016-06-11,2016,48185,Grimes (County),Flood,Severe Storms And Flooding,0,1,1
+4272,2016-06-11,2016,48021,Bastrop (County),Flood,Severe Storms And Flooding,0,1,1
+4272,2016-06-11,2016,48055,Caldwell (County),Flood,Severe Storms And Flooding,0,1,1
+4272,2016-06-11,2016,48287,Lee (County),Flood,Severe Storms And Flooding,0,1,1
+4269,2016-04-25,2016,48089,Colorado (County),Flood,Severe Storms And Flooding,0,1,1
+4269,2016-04-25,2016,48203,Harrison (County),Flood,Severe Storms And Flooding,0,1,1
+4269,2016-04-25,2016,48477,Washington (County),Flood,Severe Storms And Flooding,0,1,1
+4269,2016-04-25,2016,48467,Van Zandt (County),Flood,Severe Storms And Flooding,0,1,1
+4269,2016-04-25,2016,48499,Wood (County),Flood,Severe Storms And Flooding,0,1,1
+4269,2016-04-25,2016,48073,Cherokee (County),Flood,Severe Storms And Flooding,0,1,1
+4269,2016-04-25,2016,48035,Bosque (County),Flood,Severe Storms And Flooding,0,1,1
+4269,2016-04-25,2016,48291,Liberty (County),Flood,Severe Storms And Flooding,0,1,1
+4269,2016-04-25,2016,48407,San Jacinto (County),Flood,Severe Storms And Flooding,0,1,1
+4269,2016-04-25,2016,48331,Milam (County),Flood,Severe Storms And Flooding,0,1,1
+4269,2016-04-25,2016,48423,Smith (County),Flood,Severe Storms And Flooding,0,1,1
+4269,2016-04-25,2016,48367,Parker (County),Flood,Severe Storms And Flooding,0,0,1
+4269,2016-04-25,2016,48021,Bastrop (County),Flood,Severe Storms And Flooding,0,1,1
+4269,2016-04-25,2016,48473,Waller (County),Flood,Severe Storms And Flooding,0,1,1
+4269,2016-04-25,2016,48157,Fort Bend (County),Flood,Severe Storms And Flooding,0,1,1
+4269,2016-04-25,2016,48459,Upshur (County),Flood,Severe Storms And Flooding,0,1,1
+4269,2016-04-25,2016,48185,Grimes (County),Flood,Severe Storms And Flooding,0,1,1
+4269,2016-04-25,2016,48059,Callahan (County),Flood,Severe Storms And Flooding,0,1,1
+4269,2016-04-25,2016,48201,Harris (County),Flood,Severe Storms And Flooding,0,1,1
+4269,2016-04-25,2016,48099,Coryell (County),Flood,Severe Storms And Flooding,0,1,1
+4269,2016-04-25,2016,48001,Anderson (County),Flood,Severe Storms And Flooding,0,1,1
+4269,2016-04-25,2016,48481,Wharton (County),Flood,Severe Storms And Flooding,0,1,1
+4269,2016-04-25,2016,48149,Fayette (County),Flood,Severe Storms And Flooding,0,1,1
+4269,2016-04-25,2016,48067,Cass (County),Flood,Severe Storms And Flooding,0,1,1
+4269,2016-04-25,2016,48253,Jones (County),Flood,Severe Storms And Flooding,0,1,1
+4269,2016-04-25,2016,48339,Montgomery (County),Flood,Severe Storms And Flooding,0,1,1
+4269,2016-04-25,2016,48015,Austin (County),Flood,Severe Storms And Flooding,0,1,1
+4266,2016-03-19,2016,48351,Newton (County),Flood,"Severe Storms, Tornadoes, And Flooding",0,1,1
+4266,2016-03-19,2016,48315,Marion (County),Flood,"Severe Storms, Tornadoes, And Flooding",0,1,1
+4266,2016-03-19,2016,48221,Hood (County),Flood,"Severe Storms, Tornadoes, And Flooding",0,1,1
+4266,2016-03-19,2016,48387,Red River (County),Flood,"Severe Storms, Tornadoes, And Flooding",0,1,1
+4266,2016-03-19,2016,48471,Walker (County),Flood,"Severe Storms, Tornadoes, And Flooding",0,1,1
+4266,2016-03-19,2016,48213,Henderson (County),Flood,"Severe Storms, Tornadoes, And Flooding",0,1,1
+4266,2016-03-19,2016,48457,Tyler (County),Flood,"Severe Storms, Tornadoes, And Flooding",0,1,1
+4266,2016-03-19,2016,48143,Erath (County),Flood,"Severe Storms, Tornadoes, And Flooding",0,1,1
+4266,2016-03-19,2016,48403,Sabine (County),Flood,"Severe Storms, Tornadoes, And Flooding",0,1,1
+4266,2016-03-19,2016,48203,Harrison (County),Flood,"Severe Storms, Tornadoes, And Flooding",0,1,1
+4266,2016-03-19,2016,48183,Gregg (County),Flood,"Severe Storms, Tornadoes, And Flooding",0,1,1
+4266,2016-03-19,2016,48005,Angelina (County),Flood,"Severe Storms, Tornadoes, And Flooding",0,1,1
+4266,2016-03-19,2016,48241,Jasper (County),Flood,"Severe Storms, Tornadoes, And Flooding",0,1,1
+4266,2016-03-19,2016,48361,Orange (County),Flood,"Severe Storms, Tornadoes, And Flooding",0,1,1
+4266,2016-03-19,2016,48293,Limestone (County),Flood,"Severe Storms, Tornadoes, And Flooding",0,1,1
+4266,2016-03-19,2016,48313,Madison (County),Flood,"Severe Storms, Tornadoes, And Flooding",0,1,1
+4266,2016-03-19,2016,48277,Lamar (County),Flood,"Severe Storms, Tornadoes, And Flooding",0,1,1
+4266,2016-03-19,2016,48367,Parker (County),Flood,"Severe Storms, Tornadoes, And Flooding",0,1,1
+4266,2016-03-19,2016,48419,Shelby (County),Flood,"Severe Storms, Tornadoes, And Flooding",0,1,1
+4266,2016-03-19,2016,48405,San Augustine (County),Flood,"Severe Storms, Tornadoes, And Flooding",0,1,1
+4266,2016-03-19,2016,48067,Cass (County),Flood,"Severe Storms, Tornadoes, And Flooding",0,1,1
+4255,2016-02-09,2016,48349,Navarro (County),Severe Storm,"Severe Winter Storms, Tornadoes, Straight-Line Winds, And Flooding",0,1,1
+4255,2016-02-09,2016,48125,Dickens (County),Severe Storm,"Severe Winter Storms, Tornadoes, Straight-Line Winds, And Flooding",0,1,1
+4255,2016-02-09,2016,48433,Stonewall (County),Severe Storm,"Severe Winter Storms, Tornadoes, Straight-Line Winds, And Flooding",0,1,1
+4255,2016-02-09,2016,48129,Donley (County),Severe Storm,"Severe Winter Storms, Tornadoes, Straight-Line Winds, And Flooding",0,1,1
+4255,2016-02-09,2016,48213,Henderson (County),Severe Storm,"Severe Winter Storms, Tornadoes, Straight-Line Winds, And Flooding",0,1,1
+4255,2016-02-09,2016,48153,Floyd (County),Severe Storm,"Severe Winter Storms, Tornadoes, Straight-Line Winds, And Flooding",0,1,1
+4255,2016-02-09,2016,48487,Wilbarger (County),Severe Storm,"Severe Winter Storms, Tornadoes, Straight-Line Winds, And Flooding",0,1,1
+4255,2016-02-09,2016,48303,Lubbock (County),Severe Storm,"Severe Winter Storms, Tornadoes, Straight-Line Winds, And Flooding",0,1,1
+4255,2016-02-09,2016,48445,Terry (County),Severe Storm,"Severe Winter Storms, Tornadoes, Straight-Line Winds, And Flooding",0,1,1
+4255,2016-02-09,2016,48397,Rockwall (County),Severe Storm,"Severe Winter Storms, Tornadoes, Straight-Line Winds, And Flooding",0,1,1
+4255,2016-02-09,2016,48257,Kaufman (County),Severe Storm,"Severe Winter Storms, Tornadoes, Straight-Line Winds, And Flooding",0,1,1
+4255,2016-02-09,2016,48415,Scurry (County),Severe Storm,"Severe Winter Storms, Tornadoes, Straight-Line Winds, And Flooding",0,1,1
+4255,2016-02-09,2016,48219,Hockley (County),Severe Storm,"Severe Winter Storms, Tornadoes, Straight-Line Winds, And Flooding",0,1,1
+4255,2016-02-09,2016,48279,Lamb (County),Severe Storm,"Severe Winter Storms, Tornadoes, Straight-Line Winds, And Flooding",0,1,1
+4255,2016-02-09,2016,48191,Hall (County),Severe Storm,"Severe Winter Storms, Tornadoes, Straight-Line Winds, And Flooding",0,1,1
+4255,2016-02-09,2016,48417,Shackelford (County),Severe Storm,"Severe Winter Storms, Tornadoes, Straight-Line Winds, And Flooding",0,1,1
+4255,2016-02-09,2016,48107,Crosby (County),Severe Storm,"Severe Winter Storms, Tornadoes, Straight-Line Winds, And Flooding",0,1,1
+4255,2016-02-09,2016,48353,Nolan (County),Severe Storm,"Severe Winter Storms, Tornadoes, Straight-Line Winds, And Flooding",0,1,1
+4255,2016-02-09,2016,48275,Knox (County),Severe Storm,"Severe Winter Storms, Tornadoes, Straight-Line Winds, And Flooding",0,1,1
+4255,2016-02-09,2016,48151,Fisher (County),Severe Storm,"Severe Winter Storms, Tornadoes, Straight-Line Winds, And Flooding",0,1,1
+4255,2016-02-09,2016,48345,Motley (County),Severe Storm,"Severe Winter Storms, Tornadoes, Straight-Line Winds, And Flooding",0,1,1
+4255,2016-02-09,2016,48289,Leon (County),Severe Storm,"Severe Winter Storms, Tornadoes, Straight-Line Winds, And Flooding",0,1,1
+4255,2016-02-09,2016,48087,Collingsworth (County),Severe Storm,"Severe Winter Storms, Tornadoes, Straight-Line Winds, And Flooding",0,1,1
+4255,2016-02-09,2016,48119,Delta (County),Severe Storm,"Severe Winter Storms, Tornadoes, Straight-Line Winds, And Flooding",0,1,1
+4255,2016-02-09,2016,48033,Borden (County),Severe Storm,"Severe Winter Storms, Tornadoes, Straight-Line Winds, And Flooding",0,1,1
+4255,2016-02-09,2016,48263,Kent (County),Severe Storm,"Severe Winter Storms, Tornadoes, Straight-Line Winds, And Flooding",0,1,1
+4255,2016-02-09,2016,48455,Trinity (County),Severe Storm,"Severe Winter Storms, Tornadoes, Straight-Line Winds, And Flooding",0,1,1
+4255,2016-02-09,2016,48069,Castro (County),Severe Storm,"Severe Winter Storms, Tornadoes, Straight-Line Winds, And Flooding",0,1,1
+4255,2016-02-09,2016,48159,Franklin (County),Severe Storm,"Severe Winter Storms, Tornadoes, Straight-Line Winds, And Flooding",0,1,1
+4255,2016-02-09,2016,48067,Cass (County),Severe Storm,"Severe Winter Storms, Tornadoes, Straight-Line Winds, And Flooding",0,1,1
+4255,2016-02-09,2016,48253,Jones (County),Severe Storm,"Severe Winter Storms, Tornadoes, Straight-Line Winds, And Flooding",0,1,1
+4255,2016-02-09,2016,48449,Titus (County),Severe Storm,"Severe Winter Storms, Tornadoes, Straight-Line Winds, And Flooding",0,1,1
+4255,2016-02-09,2016,48155,Foard (County),Severe Storm,"Severe Winter Storms, Tornadoes, Straight-Line Winds, And Flooding",0,1,1
+4255,2016-02-09,2016,48207,Haskell (County),Severe Storm,"Severe Winter Storms, Tornadoes, Straight-Line Winds, And Flooding",0,1,1
+4255,2016-02-09,2016,48269,King (County),Severe Storm,"Severe Winter Storms, Tornadoes, Straight-Line Winds, And Flooding",0,1,1
+4255,2016-02-09,2016,48369,Parmer (County),Severe Storm,"Severe Winter Storms, Tornadoes, Straight-Line Winds, And Flooding",0,1,1
+4255,2016-02-09,2016,48139,Ellis (County),Severe Storm,"Severe Winter Storms, Tornadoes, Straight-Line Winds, And Flooding",0,1,1
+4255,2016-02-09,2016,48101,Cottle (County),Severe Storm,"Severe Winter Storms, Tornadoes, Straight-Line Winds, And Flooding",0,1,1
+4255,2016-02-09,2016,48471,Walker (County),Severe Storm,"Severe Winter Storms, Tornadoes, Straight-Line Winds, And Flooding",0,1,1
+4255,2016-02-09,2016,48223,Hopkins (County),Severe Storm,"Severe Winter Storms, Tornadoes, Straight-Line Winds, And Flooding",0,1,1
+4255,2016-02-09,2016,48467,Van Zandt (County),Severe Storm,"Severe Winter Storms, Tornadoes, Straight-Line Winds, And Flooding",0,1,1
+4255,2016-02-09,2016,48387,Red River (County),Severe Storm,"Severe Winter Storms, Tornadoes, Straight-Line Winds, And Flooding",0,1,1
+4255,2016-02-09,2016,48379,Rains (County),Severe Storm,"Severe Winter Storms, Tornadoes, Straight-Line Winds, And Flooding",0,1,1
+4255,2016-02-09,2016,48017,Bailey (County),Severe Storm,"Severe Winter Storms, Tornadoes, Straight-Line Winds, And Flooding",0,1,1
+4255,2016-02-09,2016,48483,Wheeler (County),Severe Storm,"Severe Winter Storms, Tornadoes, Straight-Line Winds, And Flooding",0,1,1
+4255,2016-02-09,2016,48075,Childress (County),Severe Storm,"Severe Winter Storms, Tornadoes, Straight-Line Winds, And Flooding",0,1,1
+4255,2016-02-09,2016,48117,Deaf Smith (County),Severe Storm,"Severe Winter Storms, Tornadoes, Straight-Line Winds, And Flooding",0,1,1
+4255,2016-02-09,2016,48079,Cochran (County),Severe Storm,"Severe Winter Storms, Tornadoes, Straight-Line Winds, And Flooding",0,1,1
+4255,2016-02-09,2016,48197,Hardeman (County),Severe Storm,"Severe Winter Storms, Tornadoes, Straight-Line Winds, And Flooding",0,1,1
+4255,2016-02-09,2016,48113,Dallas (County),Severe Storm,"Severe Winter Storms, Tornadoes, Straight-Line Winds, And Flooding",0,1,1
+4255,2016-02-09,2016,48203,Harrison (County),Severe Storm,"Severe Winter Storms, Tornadoes, Straight-Line Winds, And Flooding",0,1,1
+4245,2015-11-25,2016,48349,Navarro (County),Severe Storm,"Severe Storms, Tornadoes, Straight-Line Winds, And Flooding",0,1,1
+4245,2015-11-25,2016,48061,Cameron (County),Severe Storm,"Severe Storms, Tornadoes, Straight-Line Winds, And Flooding",0,0,1
+4245,2015-11-25,2016,48091,Comal (County),Severe Storm,"Severe Storms, Tornadoes, Straight-Line Winds, And Flooding",0,1,1
+4245,2015-11-25,2016,48035,Bosque (County),Severe Storm,"Severe Storms, Tornadoes, Straight-Line Winds, And Flooding",0,1,1
+4245,2015-11-25,2016,48021,Bastrop (County),Severe Storm,"Severe Storms, Tornadoes, Straight-Line Winds, And Flooding",0,1,1
+4245,2015-11-25,2016,48493,Wilson (County),Severe Storm,"Severe Storms, Tornadoes, Straight-Line Winds, And Flooding",0,1,1
+4245,2015-11-25,2016,48055,Caldwell (County),Severe Storm,"Severe Storms, Tornadoes, Straight-Line Winds, And Flooding",0,1,1
+4245,2015-11-25,2016,48471,Walker (County),Severe Storm,"Severe Storms, Tornadoes, Straight-Line Winds, And Flooding",0,1,1
+4245,2015-11-25,2016,48241,Jasper (County),Severe Storm,"Severe Storms, Tornadoes, Straight-Line Winds, And Flooding",0,1,1
+4245,2015-11-25,2016,48201,Harris (County),Severe Storm,"Severe Storms, Tornadoes, Straight-Line Winds, And Flooding",0,0,1
+4245,2015-11-25,2016,48489,Willacy (County),Severe Storm,"Severe Storms, Tornadoes, Straight-Line Winds, And Flooding",0,1,1
+4245,2015-11-25,2016,48167,Galveston (County),Severe Storm,"Severe Storms, Tornadoes, Straight-Line Winds, And Flooding",0,0,1
+4245,2015-11-25,2016,48291,Liberty (County),Severe Storm,"Severe Storms, Tornadoes, Straight-Line Winds, And Flooding",0,1,1
+4245,2015-11-25,2016,48217,Hill (County),Severe Storm,"Severe Storms, Tornadoes, Straight-Line Winds, And Flooding",0,1,1
+4245,2015-11-25,2016,48209,Hays (County),Severe Storm,"Severe Storms, Tornadoes, Straight-Line Winds, And Flooding",0,1,1
+4245,2015-11-25,2016,48215,Hidalgo (County),Severe Storm,"Severe Storms, Tornadoes, Straight-Line Winds, And Flooding",0,1,1
+4245,2015-11-25,2016,48453,Travis (County),Severe Storm,"Severe Storms, Tornadoes, Straight-Line Winds, And Flooding",0,1,1
+4245,2015-11-25,2016,48351,Newton (County),Severe Storm,"Severe Storms, Tornadoes, Straight-Line Winds, And Flooding",0,1,1
+4245,2015-11-25,2016,48199,Hardin (County),Severe Storm,"Severe Storms, Tornadoes, Straight-Line Winds, And Flooding",0,0,1
+4245,2015-11-25,2016,48423,Smith (County),Severe Storm,"Severe Storms, Tornadoes, Straight-Line Winds, And Flooding",0,1,0
+4245,2015-11-25,2016,48187,Guadalupe (County),Severe Storm,"Severe Storms, Tornadoes, Straight-Line Winds, And Flooding",0,1,1
+4245,2015-11-25,2016,48039,Brazoria (County),Severe Storm,"Severe Storms, Tornadoes, Straight-Line Winds, And Flooding",0,0,1
+5116,2015-10-14,2016,48021,Bastrop (County),Fire,Hidden Pines Fire,0,1,1
